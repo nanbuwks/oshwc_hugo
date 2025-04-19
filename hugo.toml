@@ -1,5 +1,8 @@
-baseURL = 'https://nanbuwks.github.io/oshwc_hugo/'
+baseURL = 'https://nanbuwks.github.io/'
+relativeURLS=true
 canonifyurls=true
+#baseURL = 'https://nanbuwks.github.io/oshwc_hugo/'
+#canonifyurls=true
 publishDir="docs"
 languageCode = 'ja'
 title = 'OSHWC:OpenHardWareConference'

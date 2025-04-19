@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on OSHWC:OpenHardWareConference</title>
-    <link>https://nanbuwks.github.io/oshwc_hugo/categories/</link>
+    <link>https://nanbuwks.github.io/categories/</link>
     <description>Recent content in Categories on OSHWC:OpenHardWareConference</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="https://nanbuwks.github.io/oshwc_hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nanbuwks.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
