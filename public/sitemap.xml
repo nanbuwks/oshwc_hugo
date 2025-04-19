@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/oshwc_hugo/posts/</loc>
+    <lastmod>2025-04-18T22:25:58+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/oshwc_hugo/posts/oldsite/</loc>
+    <lastmod>2025-04-18T22:25:58+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/oshwc_hugo/</loc>
+    <lastmod>2025-04-18T22:25:58+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/oshwc_hugo/posts/oshwc2025saitama/</loc>
+    <lastmod>2025-04-18T22:24:04+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/oshwc_hugo/posts/entry/</loc>
+    <lastmod>2025-04-18T22:22:29+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/oshwc_hugo/posts/whatisoshwc/</loc>
+    <lastmod>2025-04-18T22:22:09+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/oshwc_hugo/posts/1st-test-post/</loc>
+    <lastmod>2025-04-16T23:57:37+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/oshwc_hugo/posts/aboutus/</loc>
+    <lastmod>2025-04-16T23:57:37+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/oshwc_hugo/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/oshwc_hugo/tags/</loc>
+  </url>
+</urlset>

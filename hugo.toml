@@ -1,7 +1,7 @@
-baseURL = 'https://nanbuwks.github.io/'
+#baseURL = 'https://nanbuwks.github.io/'
 relativeURLS=true
-canonifyurls=true
-#baseURL = 'https://nanbuwks.github.io/oshwc_hugo/'
+canonifyURLs=true
+baseURL = 'https://nanbuwks.github.io/oshwc_hugo/'
 #canonifyurls=true
 publishDir="docs"
 languageCode = 'ja'
