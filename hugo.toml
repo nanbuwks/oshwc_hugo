@@ -1,4 +1,6 @@
 baseURL = 'https://example.org/'
+canonifyurls=true
+publishDir="docs"
 languageCode = 'ja'
 title = 'OSHWC:OpenHardWareConference'
 theme = 'ananke'
