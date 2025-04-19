@@ -1,5 +1,4 @@
 +++
 date = '2025-04-18T22:22:29+09:00'
-draft = true
 title = 'Entry'
 +++

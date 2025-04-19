@@ -1,6 +1,5 @@
 +++
 date = '2025-04-18T22:25:58+09:00'
-draft = true
 title = 'Oldsite'
 +++
 
