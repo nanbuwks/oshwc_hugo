@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OSHWC:OpenHardWareConference</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content on OSHWC:OpenHardWareConference</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 18 Apr 2025 22:25:58 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oldsite</title>
+      <link>http://localhost:1313/posts/oldsite/</link>
+      <pubDate>Fri, 18 Apr 2025 22:25:58 +0900</pubDate>
+      <guid>http://localhost:1313/posts/oldsite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oshwc2025saitama</title>
+      <link>http://localhost:1313/posts/oshwc2025saitama/</link>
+      <pubDate>Fri, 18 Apr 2025 22:24:04 +0900</pubDate>
+      <guid>http://localhost:1313/posts/oshwc2025saitama/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entry</title>
+      <link>http://localhost:1313/posts/entry/</link>
+      <pubDate>Fri, 18 Apr 2025 22:22:29 +0900</pubDate>
+      <guid>http://localhost:1313/posts/entry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Whatisoshwc</title>
+      <link>http://localhost:1313/posts/whatisoshwc/</link>
+      <pubDate>Fri, 18 Apr 2025 22:22:09 +0900</pubDate>
+      <guid>http://localhost:1313/posts/whatisoshwc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1st-test-post</title>
+      <link>http://localhost:1313/posts/1st-test-post/</link>
+      <pubDate>Wed, 16 Apr 2025 23:57:37 +0900</pubDate>
+      <guid>http://localhost:1313/posts/1st-test-post/</guid>
+      <description>&lt;h2 id=&#34;1st-test-post&#34;&gt;1st-test-post&lt;/h2&gt;&#xA;&lt;p&gt;hello&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aboutus</title>
+      <link>http://localhost:1313/posts/aboutus/</link>
+      <pubDate>Wed, 16 Apr 2025 23:57:37 +0900</pubDate>
+      <guid>http://localhost:1313/posts/aboutus/</guid>
+      <description>&lt;h2 id=&#34;about-us&#34;&gt;About us&lt;/h2&gt;&#xA;&lt;p&gt;オープンハードカンファレンスは、秘密結社オープンフォースが企画運営を行っています。&lt;/p&gt;&#xA;&lt;h1 id=&#34;秘密結社オープンフォース&#34;&gt;秘密結社オープンフォース&lt;/h1&gt;&#xA;&lt;p&gt;「オープン技術で世界を変革する力を」&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;研究調査&lt;/li&gt;&#xA;&lt;li&gt;技術開発&lt;/li&gt;&#xA;&lt;li&gt;啓蒙活動&lt;/li&gt;&#xA;&lt;li&gt;勉強会&lt;/li&gt;&#xA;&lt;li&gt;社会問題解決&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;などを行っています。&lt;/p&gt;&#xA;&lt;p&gt;お問い合わせなどは @nanbuwks (X) へ。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

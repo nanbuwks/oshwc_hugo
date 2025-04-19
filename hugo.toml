@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+languageCode = 'ja'
+title = 'OSHWC:OpenHardWareConference'
+theme = 'ananke'
+[[menu.main]]
+  identifier = "whatisOSHWC"
+  name = "OSHWCとは"
+  url = "/posts/whatisOSHWC/"
+  weight = 10 
+[[menu.main]]
+  identifier = "emtry"
+  name = "出展・登壇申込"
+  url = "/posts/entry/"
+  weight = 20
+[[menu.main]]
+  identifier = "aboutus"
+  name = "Aboutus"
+  url = "/posts/aboutus/"
+  weight = 30
