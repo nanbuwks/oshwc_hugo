@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://nanbuwks.github.io/oshwc_hugo/'
 canonifyurls=true
 publishDir="docs"
 languageCode = 'ja'
