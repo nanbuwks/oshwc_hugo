@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://osdhwc.netlify.app/posts/</loc>
     <lastmod>2025-04-18T22:25:58+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/oldsite/</loc>
+    <loc>https://osdhwc.netlify.app/posts/oldsite/</loc>
     <lastmod>2025-04-18T22:25:58+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://osdhwc.netlify.app/</loc>
     <lastmod>2025-04-18T22:25:58+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/oshwc2025saitama/</loc>
+    <loc>https://osdhwc.netlify.app/posts/oshwc2025saitama/</loc>
     <lastmod>2025-04-18T22:24:04+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/entry/</loc>
+    <loc>https://osdhwc.netlify.app/posts/entry/</loc>
     <lastmod>2025-04-18T22:22:29+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/whatisoshwc/</loc>
+    <loc>https://osdhwc.netlify.app/posts/whatisoshwc/</loc>
     <lastmod>2025-04-18T22:22:09+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/aboutus/</loc>
+    <loc>https://osdhwc.netlify.app/posts/aboutus/</loc>
     <lastmod>2025-04-16T23:57:37+09:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://osdhwc.netlify.app/categories/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://osdhwc.netlify.app/tags/</loc>
   </url>
 </urlset>

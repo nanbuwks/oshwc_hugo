@@ -1,4 +1,4 @@
-baseURL = 'https://example.com/'
+baseURL = 'https://osdhwc.netlify.app/'
 #relativeURL=true
 #canonifyURL=true
 #baseURL = 'https://nanbuwks.github.io/oshwc_hugo/'
