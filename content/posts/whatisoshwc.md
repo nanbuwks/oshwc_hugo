@@ -5,7 +5,7 @@ featured_image = '/images/OSHWClogo20140105-400px.png'
 +++
 OSHWC:オープンハードカンファレンスとは
 
-![]('/images/OSHWClogo20140105-400px.png')
+{{< figure src="/images/OSHWClogo20140105-400px.png">}}
 
 
 ハードウェアの文化祭！
