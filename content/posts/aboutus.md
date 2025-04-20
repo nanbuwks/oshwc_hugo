@@ -18,6 +18,25 @@ title = 'Aboutus'
 
 などを行っています。
 
+勉強会などのイベントページ https://openforce.connpass.com/
+
+日常の は Discord "OpenHardTerrace" サーバーで! https://discord.gg/9UTNdtSrdX
+
+秘密結社オープンフォースの参加資格や入団の秘密儀式などはありません。 興味があればぜひご参加ください。
+
+Webページはこちら
+
+http://openforce.project2108.com/
+
+
+
 お問い合わせなどは @nanbuwks (X) へ。
+
+https://x.com/nanbuwks
+
+メールでのご連絡はこちら
+
+openforce (あっとまーく) project2108.com
  
+
 
