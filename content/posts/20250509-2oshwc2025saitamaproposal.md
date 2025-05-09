@@ -1,6 +1,5 @@
 +++
 date = '2025-05-09T20:05:00+09:00'
-draft = true
 title = '20250509 2oshwc2025saitamaproposal'
 +++
 オープンハードカンファレンスの説明資料
