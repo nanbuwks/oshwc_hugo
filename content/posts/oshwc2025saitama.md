@@ -7,6 +7,9 @@ title = 'oshwc2025saitama'
 
 埼玉県入間市で開催予定のオープンハードカンファレンス。 2025年5月25日開催！
 
+{{< figure src="/images/OSHWC2025SaitamaPoster.png">}}
+
+
 
 ### 開催概要
 2025年5月に開催するオープンソースハードウェアの祭典「オープンハードカンファレンス」です。
@@ -39,3 +42,11 @@ https://www.iruma-bunka.jp/access/
 こちらから、お申し込みください。
 
 https://oshwc.org/posts/entry
+
+### オープンハードカンファレンスとは
+
+OSHWC2025Saitama 開催にあたってオープンハードカンファレンスを説明する資料を作ってみました。
+
+
+pdf はこちら https://oshwc.org/images/OSHWCproposal20250423.pdf
+~                                                                           
