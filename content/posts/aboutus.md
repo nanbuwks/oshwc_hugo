@@ -28,7 +28,7 @@ Webページはこちら
 
 http://openforce.project2108.com/
 
-
+![](../images/openforcelogosmall.png)
 
 お問い合わせなどは @nanbuwks (X) へ。
 

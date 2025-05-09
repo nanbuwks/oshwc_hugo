@@ -47,4 +47,7 @@ https://forms.gle/LoyNo9Vf8Wm6PQqU9
 ### 登壇申し込み
 
 こちらのページから
-https://forms.gle/LoyNo9Vf8Wm6PQqU9
+https://forms.gle/c4quthB2PXzo8DFs7
+
+
+
