@@ -3,12 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-18T22:25:58+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/oldsite/</loc>
-    <lastmod>2025-04-18T22:25:58+09:00</lastmod>
+    <lastmod>2025-05-21T12:24:13+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-21T12:24:13+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/oshwc2025saitamaparty/</loc>
+    <lastmod>2025-05-21T12:24:13+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/20250509-2oshwc2025saitamaproposal/</loc>
+    <lastmod>2025-05-09T20:05:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/oshwc2025saitamaposter/</loc>
+    <lastmod>2025-05-09T19:55:26+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/oldsite/</loc>
     <lastmod>2025-04-18T22:25:58+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/oshwc2025saitama/</loc>
@@ -19,9 +28,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/whatisoshwc/</loc>
     <lastmod>2025-04-18T22:22:09+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/1st-test-post/</loc>
-    <lastmod>2025-04-16T23:57:37+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/aboutus/</loc>
     <lastmod>2025-04-16T23:57:37+09:00</lastmod>

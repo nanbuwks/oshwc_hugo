@@ -1,0 +1,4 @@
+[params]
+text_color = "green"
+[params]
+custom_css = ["custom.css"]
