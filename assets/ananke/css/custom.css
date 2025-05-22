@@ -1,6 +1,7 @@
 table {
   border-collapse: collapse;
   font-size: 75%;
+  width: 150%;
 }
 td, th {
   border: 1px solid #312;
