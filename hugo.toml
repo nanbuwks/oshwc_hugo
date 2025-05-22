@@ -29,4 +29,4 @@ theme = 'ananke'
   weight = 30
 
 [params]
-custom_css = ["custom.css"]
+custom_css = ["assets/ananke/css/custom.css"]
