@@ -27,3 +27,6 @@ theme = 'ananke'
   name = "Aboutus"
   url = "/posts/aboutus/"
   weight = 30
+
+[params]
+text_color = "red"
