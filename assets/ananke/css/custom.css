@@ -11,5 +11,3 @@ td, th {
   border: 1px solid #312;
   padding: 0 .2em;
 }
-tr:nth-child(even) {background: #CCF:}
-tr:nth-child(odd) {background: #FFF}
