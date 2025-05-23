@@ -3,7 +3,7 @@ table {
   font-size: 75%;
   width: 150%;
 }
-th[scope="col"] {
+th {
   background-color: #505050;
   color: #fff;
 }
