@@ -24,7 +24,7 @@ https://www.iruma-bunka.jp/access/
 
 {{< figure src="/images/OSHWC2025Saitamaレイアウト.png">}}
 
-pdf はこちら "https://oshwc.org/file/OSHWCproposalレイアウト.pdf"
+pdf はこちら https://oshwc.org/file/OSHWC2025Saitamalayout.pdf
 
 
 #### 会場オープン
@@ -107,4 +107,4 @@ pdf はこちら "https://oshwc.org/file/OSHWCproposalレイアウト.pdf"
 
 会費は社会人￥2000、学生、学童などは無料です。 
 
-懇親会の申込みは受付で行います。名札をお渡しします。懇親会チケットとしてお使いください。
+懇親会の申込みは受付で行います。名札をお渡しします。懇親会チケットとしてお使いください
