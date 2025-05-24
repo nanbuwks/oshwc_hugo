@@ -8,4 +8,4 @@ title = 'Oshwc2025saitamaposter'
 
 {{< figure src="/images/OSHWC2025SaitamaPoster.png">}}
 
-pdf はこちら https://oshwc.org/images/OSHWC2025Saitama6.pdf
+pdf はこちら https://oshwc.org/file/OSHWC2025Saitama6.pdf

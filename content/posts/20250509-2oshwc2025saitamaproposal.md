@@ -7,4 +7,4 @@ title = '2025050902 OSHWC2025saitamaproposal'
 OSHWC2025Saitama 開催にあたってオープンハードカンファレンスを説明する資料を作ってみました。
 
 
-pdf はこちら https://oshwc.org/images/OSHWCproposal20250423.pdf
+pdf はこちら https://oshwc.org/file/OSHWCproposal20250423.pdf
