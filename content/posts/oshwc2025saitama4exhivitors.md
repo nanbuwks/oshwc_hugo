@@ -6,6 +6,13 @@ title = 'Oshwc2025saitama4exhivitors'
 ## for exhivitors 登壇者、出展者、体験コーナー運営の皆様へ
 
 
+### レイアウト
+
+{{< figure src="/images/OSHWC2025Saitamaレイアウト.png">}}
+
+pdf はこちら https://oshwc.org/file/OSHWCproposalレイアウト.pdf
+
+
 ### 会場オープン
 
 10時過ぎに主催者が会場オープンします。それまで開場前でお待ち下さい。
