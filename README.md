@@ -1,3 +1,3 @@
 # README
 
-this is source of https://oshwc.org
+This is source of https://oshwc.org
