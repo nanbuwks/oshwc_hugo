@@ -1,0 +1,6 @@
++++
+date = '2025-08-23T10:27:14+09:00'
+draft = true
+title = 'Oshwc2025akihabara4exhivitors'
++++
+hello
