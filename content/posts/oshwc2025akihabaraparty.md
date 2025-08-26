@@ -1,6 +1,6 @@
 +++
-date = '2025-05-21T12:24:13+09:00'
-title = 'Oshwc2025saitamaparty'
+date = '2025-08-26T23:24:13+09:00'
+title = 'Oshwc2025akihabaraparty'
 +++
 
 ## Party
@@ -12,6 +12,8 @@ title = 'Oshwc2025saitamaparty'
 2025/9/21 17:00-19:00
 
 会費 ￥2000 なお、未成年は無料です
+
+受付  当日、会場で受付します
 
 内容 トルティーヤピザパーティ、ケーキパーティ、カフェ
 
