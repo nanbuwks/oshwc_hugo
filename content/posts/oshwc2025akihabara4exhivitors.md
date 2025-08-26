@@ -1,6 +1,6 @@
 +++
-date = '2025-05-23T23:32:28+09:00'
-title = 'Oshwc2025saitama4exhivitors'
+date = '2025-08-26T23:32:28+09:00'
+title = 'Oshwc2025akihabara4exhivitors'
 +++
 
 ## for exhivitors 登壇者、出展者、体験コーナー運営の皆様へ
