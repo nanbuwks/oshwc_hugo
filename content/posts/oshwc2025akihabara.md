@@ -7,9 +7,9 @@ title = 'oshwc2025saitama'
 
 ## オープンハードカンファレンス 2025 Akihabara
 
-埼玉県入間市で開催予定のオープンハードカンファレンス。 2025年5月25日開催！
+岩本町JLCPCBオフィスで開催予定のオープンハードカンファレンス。 2025年9月21日開催！
 
-{{< figure src="/images/OSHWC2025akihabaraPoster.png">}}
+{{< figure src="/images/OSHWC2025AkihabaraPoster.png">}}
 
 
 
@@ -57,7 +57,8 @@ JLCPCB
 
 ### 展示申し込み、登壇申し込み
 
-申込み準備中です
+こちらから、お申し込みください。
+https://oshwc.org/posts/oshwc2025akihabaraentry
 
 
 
