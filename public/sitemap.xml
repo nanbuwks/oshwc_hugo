@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-05-23T23:32:28+09:00</lastmod>
+    <lastmod>2025-08-23T10:13:20+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-23T23:32:28+09:00</lastmod>
+    <lastmod>2025-08-23T10:13:20+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/oshwc2025akihabarastart/</loc>
+    <lastmod>2025-08-23T10:13:20+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/oshwc2025saitama4exhivitors/</loc>
     <lastmod>2025-05-23T23:32:28+09:00</lastmod>
