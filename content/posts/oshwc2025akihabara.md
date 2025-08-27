@@ -3,7 +3,8 @@ date = '2025-08-27T20:24:04+09:00'
 title = 'oshwc2025akihabara'
 +++
 
-(展示、登壇者向けの情報はこちら→ https://oshwc.org/posts/entry )
+(展示、登壇者向けの情報はこちら→ https://oshwc.org/posts/oshwc2025akihabara4exhivitors )
+(展示、登壇してみたいと思った方はこちら→ https://oshwc.org/posts/oswhc2025akihabaraentry )
 
 ## オープンハードカンファレンス 2025 Akihabara
 
@@ -45,15 +46,15 @@ JLCPCB
 
 ### セミナー
 
-調整中
+募集中!
 
 ### 一般展示
 
-調整中
+募集中!
 
 ### ファミリー体験コーナー 
 
-調整中
+募集中!
 
 ### 展示申し込み、登壇申し込み
 
