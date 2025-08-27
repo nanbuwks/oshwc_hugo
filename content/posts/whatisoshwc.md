@@ -1,6 +1,6 @@
 +++
 date = '2025-04-18T22:22:09+09:00'
-title = 'Whatisoshwc'
+title = 'What is OSHWC?'
 featured_image = '/images/OSHWClogo20140105-400px.png'
 +++
 OSHWC:オープンハードカンファレンスとは
