@@ -1,6 +1,6 @@
 +++
-date = '2025-04-18T22:24:04+09:00'
-title = 'oshwc2025saitama'
+date = '2025-08-27T22:24:04+09:00'
+title = 'oshwc2025akihabara'
 +++
 
 (展示、登壇者向けの情報はこちら→ https://oshwc.org/posts/entry )
