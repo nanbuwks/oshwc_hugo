@@ -8,9 +8,9 @@ languageCode = 'ja'
 title = 'OSHWC:OpenHardWareConference'
 theme = 'ananke'
 [[menu.main]]
-  identifier = "OSHWC2025Saitama"
-  name = "OSHWC 2025 Saitama"
-  url = "/posts/oshwc2025saitama/"
+  identifier = "OSHWC2025Akihabara"
+  name = "OSHWC 2025 Akihabara"
+  url = "/posts/oshwc2025akihabara/"
   weight = 10 
 [[menu.main]]
   identifier = "whatisOSHWC"
