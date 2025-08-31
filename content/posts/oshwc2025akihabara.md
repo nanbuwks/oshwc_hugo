@@ -13,7 +13,7 @@ title = 'oshwc2025akihabara'
 
 {{< figure src="/images/OSHWC2025AkihabaraPoster.png">}}
 
-
+<!--more-->
 
 ### 開催概要
 2025年9月に開催するオープンソースハードウェアの祭典「オープンハードカンファレンス」です。
