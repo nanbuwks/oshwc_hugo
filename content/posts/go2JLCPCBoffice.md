@@ -10,6 +10,7 @@ title = 'Go2JLCPCBoffice'
 A5出口から南に向かいます。
 {{< figure src="/images/go2JLCPCBoffice/IMG_20250825_135546.jpg">}}
 1つ目の路地がありますがそのまま通り過ぎます。
+<!--more-->
 {{< figure src="/images/go2JLCPCBoffice/IMG_20250825_135602.jpg">}}
 次の路地の角にビリーフ岩本町の看板が出ています。
 {{< figure src="/images/go2JLCPCBoffice/IMG_20250825_135615.jpg">}}

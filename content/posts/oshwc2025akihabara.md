@@ -5,7 +5,7 @@ title = 'oshwc2025akihabara'
 
 (展示、登壇者向けの情報はこちら→ https://oshwc.org/posts/oshwc2025akihabara4exhivitors )
 
-(展示、登壇してみたいと思った方はこちら→ https://oshwc.org/posts/oswhc2025akihabaraentry )
+(展示、登壇してみたいと思った方はこちら→ https://oshwc.org/posts/oshwc2025akihabaraentry )
 
 ## オープンハードカンファレンス 2025 Akihabara
 

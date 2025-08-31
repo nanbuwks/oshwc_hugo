@@ -13,20 +13,25 @@ theme = 'ananke'
   url = "/posts/oshwc2025akihabara/"
   weight = 10 
 [[menu.main]]
-  identifier = "whatisOSHWC"
-  name = "OSHWCとは"
-  url = "/posts/whatisOSHWC/"
-  weight = 10 
-[[menu.main]]
   identifier = "OSHWC2025Akihabaraentry"
   name = "出展・登壇申込"
   url = "/posts/oshwc2025akihabaraentry"
   weight = 20
 [[menu.main]]
+  identifier = "blog"
+  name = "blog"
+  url = "/posts/"
+  weight = 30 
+[[menu.main]]
+  identifier = "whatisOSHWC"
+  name = "OSHWCとは"
+  url = "/posts/whatisOSHWC/"
+  weight = 40 
+[[menu.main]]
   identifier = "aboutus"
   name = "Aboutus"
   url = "/posts/aboutus/"
-  weight = 30
+  weight = 60
 
 [params]
 custom_css = ["custom.css"]
