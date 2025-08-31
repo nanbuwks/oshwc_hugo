@@ -4,6 +4,7 @@ title = 'oshwc2025akihabara'
 +++
 
 (展示、登壇者向けの情報はこちら→ https://oshwc.org/posts/oshwc2025akihabara4exhivitors )
+
 (展示、登壇してみたいと思った方はこちら→ https://oshwc.org/posts/oswhc2025akihabaraentry )
 
 ## オープンハードカンファレンス 2025 Akihabara
@@ -31,6 +32,8 @@ JLCPCB
 
 ビル南側の路地に入口があります。
 
+アクセス →   https://oshwc.org/posts/go2jlcpcboffice
+
 ### 費用
 
 - 来場参加費：無料
@@ -41,7 +44,7 @@ JLCPCB
 - 出展者によるブース展示
 - ファミリー体験コーナー
 - 30分セミナー枠 x 4
-- IoTLT
+- IoTLT  ( →  https://iotlt.connpass.com/event/366604/ )
 
 
 ### セミナー
