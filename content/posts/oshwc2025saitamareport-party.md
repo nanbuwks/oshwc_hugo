@@ -30,3 +30,4 @@ title = 'OSHWC2025SaitamaPartyReport'
 {{< figure src="/images/oshwc2025saitama/IMG_20250621_150449.jpg">}}
 これは別のイベントの写真なのですが、このようなケーキを作ってもらいました。
 
+今後のオープンハードカンファレンスでも、自分で作って楽しむ形式の懇親会を開催していこうと思います。
