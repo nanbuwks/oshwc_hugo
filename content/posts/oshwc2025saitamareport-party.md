@@ -22,7 +22,8 @@ title = 'OSHWC2025SaitamaPartyReport'
 急遽生トルティーヤを使った方法に変更！
 
 {{< figure src="/images/oshwc2025saitama/IMG_20250525_175328.jpg">}}
-しかしながら、生トルティーヤ、意外とおいしい！ みなさんでを楽しんでもらいました。
+<!--more-->
+しかしながら生トルティーヤ、意外とおいしい！ みなさんでを楽しんでもらいました。
 {{< figure src="/images/oshwc2025saitama/IMG_20250525_184111.jpg">}}
 こちらはケーキ作り。マニュアルに従って容器に詰めていきます。
 {{< figure src="/images/oshwc2025saitama/IMG_20250525_184105.jpg">}}
