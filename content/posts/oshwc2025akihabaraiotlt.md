@@ -1,6 +1,6 @@
 +++
 date = '2025-09-02T22:40:29+09:00'
-title = 'OSHWC2025AkihabaraIoTLT'
+title = 'IoTLT in OHSWC 2025 Akihabara'
 +++
 
 [オープンハードカンファレンス2025 akihabara](/posts/oshwc2025akihabara) でのセミナーの後半は、
