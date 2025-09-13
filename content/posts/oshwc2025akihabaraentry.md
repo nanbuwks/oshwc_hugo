@@ -34,6 +34,8 @@ title = 'Entry'
 こちらのページから
 https://forms.gle/HqGa7uyhJGbfE5qe6
 
+締め切り：2025/09/14 23:59
+
 ## 登壇について
 
 - 30分セミナー枠 x 4
