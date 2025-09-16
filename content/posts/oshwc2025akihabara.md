@@ -95,7 +95,8 @@ https://iotlt.connpass.com/event/366604/
 ### 展示申し込み、登壇申し込み
 
 こちらから、お申し込みください。
-https://oshwc.org/posts/oshwc2025akihabaraentry
+https://oshwc.org/posts/oshwc2025akihabaraentry  
+(※締め切りました)
 
 
 
