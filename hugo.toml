@@ -15,7 +15,7 @@ theme = 'ananke'
 [[menu.main]]
   identifier = "OSHWC2025Akihabaraentry"
   name = "出展・登壇者向け情報"
-  url = "/posts/oshwc2025akihabaraentry"
+  url = "/posts/oshwc2025akihabara4exhivitors/"
   weight = 20
 [[menu.main]]
   identifier = "blog"
