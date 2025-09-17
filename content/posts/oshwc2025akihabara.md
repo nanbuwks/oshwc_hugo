@@ -97,6 +97,3 @@ https://iotlt.connpass.com/event/366604/
 こちらから、お申し込みください。
 https://oshwc.org/posts/oshwc2025akihabaraentry  
 (※締め切りました)
-
-
-

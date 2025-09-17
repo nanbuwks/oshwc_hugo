@@ -16,6 +16,7 @@ https://iotlt.connpass.com/event/366604/
 
 5分程度のライトニングトークをしてみませんか? 登壇申込みは上記のリンクから!
 
+<!--more-->
 
 前回の OSHWC 2025 Saitama での IoTLT の様子です。
 

@@ -18,6 +18,8 @@ title = 'Aboutus'
 
 などを行っています。
 
+<!--more-->
+
 勉強会などのイベントページ https://openforce.connpass.com/
 
 日常の は Discord "OpenHardTerrace" サーバーで! https://discord.gg/9UTNdtSrdX

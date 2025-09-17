@@ -11,7 +11,7 @@ title = 'oshwc2025saitama'
 
 {{< figure src="/images/OSHWC2025SaitamaPoster.png">}}
 
-
+<!--more-->
 
 ### 開催概要
 2025年5月に開催するオープンソースハードウェアの祭典「オープンハードカンファレンス」です。
