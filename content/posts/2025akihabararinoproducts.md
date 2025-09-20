@@ -1,6 +1,6 @@
 +++
 date = '2025-09-21T05:19:00+09:00'
-title = '2025akihabara-展示8'
+title = '2025akihabara-展示7'
 +++
 # rino products
 rino products 同人基板販売

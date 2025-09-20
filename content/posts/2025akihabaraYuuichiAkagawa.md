@@ -1,6 +1,6 @@
 +++
 date = '2025-09-21T05:08:40+09:00'
-title = '2025akihabaraYuuichiAkagawa'
+title = '2025akihabara-展示6'
 +++
 # Yuuichi Akagawa
 自作のMIDI関連ツール達

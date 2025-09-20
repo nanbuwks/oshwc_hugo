@@ -1,6 +1,6 @@
 +++
 date = '2025-09-21T05:34:00+09:00'
-title = '2025akihabara-展示12'
+title = '2025akihabara-体験1'
 +++
 # 立体アイロンビーズ体験
 {{< figure src="/images/20250921Ironbeads.jpeg">}}

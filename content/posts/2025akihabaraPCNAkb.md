@@ -1,6 +1,6 @@
 +++
 date = '2025-09-21T05:24:30+09:00'
-title = '2025akihabara-展示10'
+title = '2025akihabara-展示8'
 +++
 # PCN秋葉原
 IchigoJam×アイロンビーズ
