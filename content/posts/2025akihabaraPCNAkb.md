@@ -4,5 +4,5 @@ title = '2025akihabara-展示8'
 +++
 # PCN秋葉原
 IchigoJam×アイロンビーズ
-{{< figure src="/images/20250921PCBakb.jpg">}}
+{{< figure src="/images/20250921PCNakb.jpg">}}
 IchigoJamに合う基板と、アイロンビーズ×電子工作をテーマに展示をします。
