@@ -64,5 +64,5 @@ JLCPCB 秋葉原オフィス 東京都千代田区岩本町三丁目2番1号ビ�
 ### 展示申し込み、登壇申し込み
 
 こちらから、お申し込みください。
-https://oshwc.org/posts/oshwc2026akihabaraspringentra
+https://oshwc.org/posts/oshwc2026akihabaraspringentry
 絶賛募集中！

@@ -1,7 +1,7 @@
 +++
 date = '2025-11-12T19:21:43+09:00'
 title = 'Entry'
-++++++
++++
 
 [オープンハードカンファレンス2026 akihabara](/posts/oshwc2026akihabaraspring.md) の出展・登壇申込み
 
@@ -32,7 +32,7 @@ title = 'Entry'
 
 ### 出展申込み
 こちらのページから
-https://forms.gle/HqGa7uyhJGbfE5qe6
+https://forms.gle/sWTrhd6QwVu2wSgv9
 
 締め切り：2025/09/14 23:59
 
