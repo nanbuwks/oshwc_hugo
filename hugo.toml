@@ -10,7 +10,7 @@ theme = 'ananke'
 [[menu.main]]
   identifier = "OSHWC2026Akihabara"
   name = "OSHWC 2026 Akihabara"
-  url = "/posts/oshwc2025akihabara/"
+  url = "/posts/oshwc2026akihabaraspring/"
   weight = 10 
 [[menu.main]]
   identifier = "OSHWC2026Akihabaraentry"

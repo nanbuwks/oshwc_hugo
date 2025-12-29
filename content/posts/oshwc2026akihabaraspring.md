@@ -3,9 +3,9 @@ date = '2025-11-12T19:17:26+09:00'
 title = 'Oshwc2026akihabaraspring'
 +++
 
-(展示、登壇者向けの情報はこちら→ https://oshwc.org/posts/oshwc2026akihabaraspring4exhivitors.md)
+(展示、登壇者向けの情報はこちら→ https://oshwc.org/posts/oshwc2026akihabaraspring4exhivitors)
 
-(展示、登壇してみたいと思った方はこちら→ https://oshwc.org/posts/oshwc2026akihabaraapringentry.md)
+(展示、登壇してみたいと思った方はこちら→ https://oshwc.org/posts/oshwc2026akihabaraspringentry)
 
 ## オープンハードカンファレンス 2026 Akihabara
 
