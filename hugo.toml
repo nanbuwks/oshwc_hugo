@@ -8,12 +8,12 @@ languageCode = 'ja'
 title = 'OSHWC:OpenHardWareConference'
 theme = 'ananke'
 [[menu.main]]
-  identifier = "OSHWC2026Akihabara"
-  name = "OSHWC 2026 Akihabara"
+  identifier = "OSHWC2026Akihabaraspring"
+  name = "OSHWC 2026 Akihabara Spring"
   url = "/posts/oshwc2026akihabaraspring/"
   weight = 10 
 [[menu.main]]
-  identifier = "OSHWC2026Akihabaraentry"
+  identifier = "OSHWC2026Akihabaraspringentry"
   name = "出展・登壇者向け情報"
   url = "/posts/oshwc2026akihabaraspring4exhivitors/"
   weight = 20
