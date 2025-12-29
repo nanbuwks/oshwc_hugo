@@ -3,7 +3,7 @@ date = '2025-11-12T19:21:43+09:00'
 title = 'Entry'
 +++
 
-[オープンハードカンファレンス2026 akihabara](/posts/oshwc2026akihabaraspring) の出展・登壇申込み
+[オープンハードカンファレンス2026 Akihabara/Spring](/posts/oshwc2026akihabaraspring) の出展・登壇申込み
 
 
 ## 参加条件

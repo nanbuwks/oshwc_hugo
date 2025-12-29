@@ -9,7 +9,7 @@ title = 'OSHWC:OpenHardWareConference'
 theme = 'ananke'
 [[menu.main]]
   identifier = "OSHWC2026Akihabaraspring"
-  name = "OSHWC 2026 Akihabara Spring"
+  name = "OSHWC 2026 Akihabara/Spring"
   url = "/posts/oshwc2026akihabaraspring/"
   weight = 10 
 [[menu.main]]
