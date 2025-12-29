@@ -1,9 +1,9 @@
 +++
 date = '2025-11-12T19:21:43+09:00'
-title = 'Oshwc2026akihabaraspringentry'
-+++
+title = 'Entry'
+++++++
 
-[オープンハードカンファレンス2025 Saitama](/posts/oshwc2026akihabaraspring) の出展・登壇申込み
+[オープンハードカンファレンス2026 akihabara](/posts/oshwc2026akihabaraspring.md) の出展・登壇申込み
 
 
 ## 参加条件
@@ -13,9 +13,10 @@ title = 'Oshwc2026akihabaraspringentry'
 ## 出展について
 
 - 11:00-16:00
-- 机サイズ 150cm 〜 180cm 
+- 机サイズ 90cm(半卓) または 180cm(1卓)
 - 来場参加費：無料
-- 出展費用：無料 (個人、コミュニティ、企業問わず)
+- 出展費用：￥2000(半卓) または ￥4000(1卓)
+- 支払い：現地受付で支払い
 - 販売OK
 - 電源有
 
@@ -31,7 +32,9 @@ title = 'Oshwc2026akihabaraspringentry'
 
 ### 出展申込み
 こちらのページから
-https://forms.gle/LoyNo9Vf8Wm6PQqU9
+https://forms.gle/HqGa7uyhJGbfE5qe6
+
+締め切り：2025/09/14 23:59
 
 ## 登壇について
 
@@ -47,7 +50,6 @@ https://forms.gle/LoyNo9Vf8Wm6PQqU9
 ### 登壇申し込み
 
 こちらのページから
-https://forms.gle/c4quthB2PXzo8DFs7
-
+https://forms.gle/LJjQdGijkTtShGTd6
 
 
