@@ -8,8 +8,8 @@ languageCode = 'ja'
 title = 'OSHWC:OpenHardWareConference'
 theme = 'ananke'
 [[menu.main]]
-  identifier = "OSHWC2025Akihabara"
-  name = "OSHWC 2025 Akihabara"
+  identifier = "OSHWC2026Akihabara"
+  name = "OSHWC 2026 Akihabara"
   url = "/posts/oshwc2025akihabara/"
   weight = 10 
 [[menu.main]]
