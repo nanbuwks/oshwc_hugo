@@ -20,7 +20,7 @@ JLCPCB オフィスで行います。 住所 東京都千代田区岩本町三�
 
 ### レイアウト
 
-{{< figure src="/images/OSHWC2025akihabaraレイアウト.png">}}
+{{< figure src="/images/OSHWC2026akihabaraspringレイアウト.png">}}
 
 <!--more-->
 
