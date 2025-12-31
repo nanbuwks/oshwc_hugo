@@ -5,13 +5,13 @@ title = 'OSHWC2025Akihabara 開催しました!'
 当日は想像以上に盛り上がり、あっという間の時間でした。
 参加してくださった皆さんのおかげで、印象に残るイベントになりました。
 
-{{< figure src="/images/20251112oshwc2025akihabaradone-IMG_2503.JPG" >}}
+{{< figure src="/images/20251112OSHWC2025Akihabaradone/IMG_2503.JPG" >}}
 レゴで作られた作品に、子どもたちが目を輝かせて見入っている、温かくてワクワクする光景だと感じました。
 
 <!--more-->
 
-{{< figure src="/images/20251112oshwc2025akihabaradone-PXL_20250921_070625303.jpg" >}}
+{{< figure src="/images/20251112OSHWC2025akihabaradone/PXL_20250921_070625303.jpg" >}}
 会場では、イベントのテーマがそのまま形になったような、目を引く赤いオリジナル帽子も用意されていました。
 
-{{< figure src="/images/20251112oshwc2025akihabaradone-IMG_20250921_160448.jpg" >}}
+{{< figure src="/images/20251112OSHWC2025Akihabaradone/IMG_20250921_160448.jpg" >}}
 作って、見て、楽しんだ人たちがずらっと集まった、イベントらしさ満点の一枚です。
