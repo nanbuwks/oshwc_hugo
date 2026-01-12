@@ -13,9 +13,8 @@ title = 'Entry'
 ## 出展について
 
 - 11:00-16:00
-- 机サイズ 90cm(半卓) または 180cm(1卓)
+- 机サイズ 120cm(1卓・一部除く)
 - 来場参加費：無料
-- 出展費用：￥2000(半卓) または ￥4000(1卓)
 - 支払い：現地受付で支払い
 - 販売OK
 - 電源有
@@ -50,6 +49,5 @@ https://forms.gle/sWTrhd6QwVu2wSgv9
 ### 登壇申し込み
 
 こちらのページから
-https://forms.gle/LJjQdGijkTtShGTd6
-
+https://forms.gle/2oPWQYqrrqtj4CM99
 
