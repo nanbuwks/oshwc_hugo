@@ -2,6 +2,9 @@
 date = '2025-11-12T19:11:53+09:00'
 title = 'OSHWC2025Akihabara 開催レポート'
 +++
+{{< figure src="/images/20251112OSHWC2025Akihabarareport/PXL_20250921_070734568.jpg" >}}
+PCN秋葉原様はアイロンビーズの体験コーナを用意。
+<!--more-->
 {{< figure src="/images/20251112OSHWC2025Akihabarareport/IMG_2503.JPG" >}}
 秋葉原ロボット部のレゴブロック作品。エレベーターとじゃんけんマシンは安定した人気でした。
 
@@ -35,5 +38,3 @@ TinyGo Keeb の Gpoherくん基板。
 {{< figure src="/images/20251112OSHWC2025Akihabarareport/PXL_20250921_070703721.jpg" >}}
 秋葉原無線部はリグを持ち込んで実演と販売
 
-{{< figure src="/images/20251112OSHWC2025Akihabarareport/PXL_20250921_070734568.jpg" >}}
-PCN秋葉原様はアイロンビーズの体験コーナを用意。
