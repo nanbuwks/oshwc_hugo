@@ -11,7 +11,7 @@ title = 'Oshwc2026akihabaraspring'
 
 岩本町JLCPCBオフィスで開催予定のオープンハードカンファレンス。 2026年3月22日開催！
 
-{{< figure src="/images/OSHWC2025AkihabaraspringPoster.png">}}
+{{< figure src="/images/OSHWC2026AkihabaraspringPoster.png">}}
 
 <!--more-->
 
