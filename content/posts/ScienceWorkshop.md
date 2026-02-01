@@ -9,12 +9,12 @@ title = 'ScienceWorkshop'
 見て楽しい、触って面白い、作って学べる――そんな科学とものづくりの魅力を気軽に体験できるコーナーになっています。
 
 
-{{< figure src="ScienceWorkshop/IMG_2509.JPG">}}
+{{< figure src="/images/ScienceWorkshop/IMG_2509.JPG">}}
 
-{{< figure src="ScienceWorkshop/PXL_20250921_070734568.jpg">}}
+{{< figure src="/images/ScienceWorkshop/PXL_20250921_070734568.jpg">}}
 
-{{< figure src="ScienceWorkshop/IMG_20251207_150120">}}
+{{< figure src="/images/ScienceWorkshop/IMG_20251207_150120">}}
 
-{{< figure src="ScienceWorkshop/PXL_20250921_051902603.jpg">}}
+{{< figure src="/images/ScienceWorkshop/PXL_20250921_051902603.jpg">}}
 
-{{< figure src="ScienceWorkshop/PXL_20250921_051857386.jpg">}}
+{{< figure src="/images/ScienceWorkshop/PXL_20250921_051857386.jpg">}}
