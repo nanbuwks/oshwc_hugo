@@ -2,346 +2,339 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OSHWC:オープンハードカンファレンス on OSHWC:OpenHardWareConference</title>
-    <link>http://localhost:1313/</link>
+    <link>https://oshwc.org/</link>
     <description>Recent content in OSHWC:オープンハードカンファレンス on OSHWC:OpenHardWareConference</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 12 Nov 2025 19:21:43 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://oshwc.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Entry</title>
-      <link>http://localhost:1313/posts/oshwc2026akihabaraspringentry/</link>
+      <link>https://oshwc.org/posts/oshwc2026akihabaraspringentry/</link>
       <pubDate>Wed, 12 Nov 2025 19:21:43 +0900</pubDate>
-      <guid>http://localhost:1313/posts/oshwc2026akihabaraspringentry/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/oshwc2026akihabaraspring&#34;&gt;オープンハードカンファレンス2026 Akihabara/Spring&lt;/a&gt; の出展・登壇申込み&lt;/p&gt;&#xA;&lt;h2 id=&#34;参加条件&#34;&gt;参加条件&lt;/h2&gt;&#xA;&lt;p&gt;電子工作や、OSHW規約を守らないとダメということはありません。&#xA;モノ系に限らず、OSS系、サービス系、教育系など、熱いスピリットがあれば制限はありません！&lt;/p&gt;&#xA;&lt;h2 id=&#34;出展について&#34;&gt;出展について&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;11:00-16:00&lt;/li&gt;&#xA;&lt;li&gt;机サイズ 90cm(半卓) または 180cm(1卓)&lt;/li&gt;&#xA;&lt;li&gt;来場参加費：無料&lt;/li&gt;&#xA;&lt;li&gt;出展費用：￥2000(半卓) または ￥4000(1卓)&lt;/li&gt;&#xA;&lt;li&gt;支払い：現地受付で支払い&lt;/li&gt;&#xA;&lt;li&gt;販売OK&lt;/li&gt;&#xA;&lt;li&gt;電源有&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;今までオープンハードカンファレンスにて申し込みいただいていたジャンルの一例&#34;&gt;今までオープンハードカンファレンスにて申し込みいただいていたジャンルの一例：&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;プログラミング体験&lt;/li&gt;&#xA;&lt;li&gt;同人誌販売&lt;/li&gt;&#xA;&lt;li&gt;オープンソースの気象教材かるたの展示&lt;/li&gt;&#xA;&lt;li&gt;ミシンで手芸HACK!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;オープンハードウェアのライセンスのシールを当日お配りします。展示するアイテムがどのライセンスにあたるかを表示するために、ブースやアイテムへの貼り付けにご協力ください。&lt;/p&gt;&#xA;&lt;h3 id=&#34;出展申込み&#34;&gt;出展申込み&lt;/h3&gt;&#xA;&lt;p&gt;こちらのページから&#xA;&lt;a href=&#34;https://forms.gle/sWTrhd6QwVu2wSgv9&#34;&gt;https://forms.gle/sWTrhd6QwVu2wSgv9&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;締め切り：2026/03/14 23:59&lt;/p&gt;&#xA;&lt;h2 id=&#34;登壇について&#34;&gt;登壇について&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;30分セミナー枠 x 4&lt;/li&gt;&#xA;&lt;li&gt;来場参加費：無料&lt;/li&gt;&#xA;&lt;li&gt;登壇費用：無料 (個人、コミュニティ、企業問わず)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;過去のオープンハードカンファレンスで登壇いただいたジャンルの一例&#34;&gt;過去のオープンハードカンファレンスで登壇いただいたジャンルの一例：&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;レーザカッターで海苔を切ろう！&lt;/li&gt;&#xA;&lt;li&gt;OSS サービス/言語（Not ハードウェア）&lt;/li&gt;&#xA;&lt;li&gt;オープンハードウェアライセンス解説&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;登壇申し込み&#34;&gt;登壇申し込み&lt;/h3&gt;&#xA;&lt;p&gt;こちらのページから&#xA;&lt;a href=&#34;https://forms.gle/LJjQdGijkTtShGTd6&#34;&gt;https://forms.gle/LJjQdGijkTtShGTd6&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/oshwc2026akihabaraspringentry/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://oshwc.org/posts/oshwc2026akihabaraspring&#34;&gt;オープンハードカンファレンス2026 Akihabara/Spring&lt;/a&gt; の出展・登壇申込み&lt;/p&gt;&#xA;&lt;h2 id=&#34;参加条件&#34;&gt;参加条件&lt;/h2&gt;&#xA;&lt;p&gt;電子工作や、OSHW規約を守らないとダメということはありません。&#xA;モノ系に限らず、OSS系、サービス系、教育系など、熱いスピリットがあれば制限はありません！&lt;/p&gt;&#xA;&lt;h2 id=&#34;出展について&#34;&gt;出展について&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;11:00-16:00&lt;/li&gt;&#xA;&lt;li&gt;机サイズ 120cm(1卓・一部除く)&lt;/li&gt;&#xA;&lt;li&gt;来場参加費：無料&lt;/li&gt;&#xA;&lt;li&gt;出展費用：無料&lt;/li&gt;&#xA;&lt;li&gt;販売OK&lt;/li&gt;&#xA;&lt;li&gt;電源有&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;今までオープンハードカンファレンスにて申し込みいただいていたジャンルの一例&#34;&gt;今までオープンハードカンファレンスにて申し込みいただいていたジャンルの一例：&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;プログラミング体験&lt;/li&gt;&#xA;&lt;li&gt;同人誌販売&lt;/li&gt;&#xA;&lt;li&gt;オープンソースの気象教材かるたの展示&lt;/li&gt;&#xA;&lt;li&gt;ミシンで手芸HACK!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;オープンハードウェアのライセンスのシールを当日お配りします。展示するアイテムがどのライセンスにあたるかを表示するために、ブースやアイテムへの貼り付けにご協力ください。&lt;/p&gt;&#xA;&lt;h3 id=&#34;出展申込み&#34;&gt;出展申込み&lt;/h3&gt;&#xA;&lt;p&gt;こちらのページから&#xA;&lt;a href=&#34;https://forms.gle/sWTrhd6QwVu2wSgv9&#34;&gt;https://forms.gle/sWTrhd6QwVu2wSgv9&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;締め切り：2026/03/14 23:59&lt;/p&gt;&#xA;&lt;h2 id=&#34;登壇について&#34;&gt;登壇について&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;30分セミナー枠 x 4&lt;/li&gt;&#xA;&lt;li&gt;来場参加費：無料&lt;/li&gt;&#xA;&lt;li&gt;登壇費用：無料 (個人、コミュニティ、企業問わず)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;過去のオープンハードカンファレンスで登壇いただいたジャンルの一例&#34;&gt;過去のオープンハードカンファレンスで登壇いただいたジャンルの一例：&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;レーザカッターで海苔を切ろう！&lt;/li&gt;&#xA;&lt;li&gt;OSS サービス/言語（Not ハードウェア）&lt;/li&gt;&#xA;&lt;li&gt;オープンハードウェアライセンス解説&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;登壇申し込み&#34;&gt;登壇申し込み&lt;/h3&gt;&#xA;&lt;p&gt;こちらのページから&#xA;&lt;a href=&#34;https://forms.gle/2oPWQYqrrqtj4CM99&#34;&gt;https://forms.gle/2oPWQYqrrqtj4CM99&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Oshwc2026akihabaraspring4exhivitors</title>
-      <link>http://localhost:1313/posts/oshwc2026akihabaraspring4exhivitors/</link>
+      <link>https://oshwc.org/posts/oshwc2026akihabaraspring4exhivitors/</link>
       <pubDate>Wed, 12 Nov 2025 19:18:28 +0900</pubDate>
-      <guid>http://localhost:1313/posts/oshwc2026akihabaraspring4exhivitors/</guid>
-      <description>&lt;h2 id=&#34;for-exhivitors-登壇者出展者体験コーナー運営の皆様へ&#34;&gt;for exhivitors 登壇者、出展者、体験コーナー運営の皆様へ&lt;/h2&gt;&#xA;&lt;h2 id=&#34;会場について&#34;&gt;会場について&lt;/h2&gt;&#xA;&lt;h3 id=&#34;場所&#34;&gt;場所&lt;/h3&gt;&#xA;&lt;p&gt;JLCPCB オフィスで行います。 住所 東京都千代田区岩本町三丁目2番1号ビリーフ岩本町201号室。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;JR秋葉原駅昭和通り改札から徒歩10分&lt;/li&gt;&#xA;&lt;li&gt;都営日比谷線秋葉原駅4番出口より徒歩5分&lt;/li&gt;&#xA;&lt;li&gt;都営新宿線岩本町A5出口より徒歩1分&lt;/li&gt;&#xA;&lt;li&gt;ビル南側の路地に入口があります。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;アクセス →   &lt;a href=&#34;https://oshwc.org/posts/go2jlcpcboffice&#34;&gt;https://oshwc.org/posts/go2jlcpcboffice&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;レイアウト&#34;&gt;レイアウト&lt;/h3&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/OSHWC2026akihabaraspring%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>https://oshwc.org/posts/oshwc2026akihabaraspring4exhivitors/</guid>
+      <description>&lt;h2 id=&#34;for-exhivitors-登壇者出展者体験コーナー運営の皆様へ&#34;&gt;for exhivitors 登壇者、出展者、体験コーナー運営の皆様へ&lt;/h2&gt;&#xA;&lt;h2 id=&#34;会場について&#34;&gt;会場について&lt;/h2&gt;&#xA;&lt;h3 id=&#34;場所&#34;&gt;場所&lt;/h3&gt;&#xA;&lt;p&gt;JLCPCB オフィスで行います。 住所 東京都千代田区岩本町三丁目2番1号ビリーフ岩本町201号室。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;JR秋葉原駅昭和通り改札から徒歩10分&lt;/li&gt;&#xA;&lt;li&gt;都営日比谷線秋葉原駅4番出口より徒歩5分&lt;/li&gt;&#xA;&lt;li&gt;都営新宿線岩本町A5出口より徒歩1分&lt;/li&gt;&#xA;&lt;li&gt;ビル南側の路地に入口があります。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;アクセス →   &lt;a href=&#34;https://oshwc.org/posts/go2jlcpcboffice&#34;&gt;https://oshwc.org/posts/go2jlcpcboffice&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;レイアウト&#34;&gt;レイアウト&lt;/h3&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/OSHWC2026akihabaraspring%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Oshwc2026akihabaraspring</title>
-      <link>http://localhost:1313/posts/oshwc2026akihabaraspring/</link>
+      <link>https://oshwc.org/posts/oshwc2026akihabaraspring/</link>
       <pubDate>Wed, 12 Nov 2025 19:17:26 +0900</pubDate>
-      <guid>http://localhost:1313/posts/oshwc2026akihabaraspring/</guid>
-      <description>&lt;p&gt;(展示、登壇者向けの情報はこちら→ &lt;a href=&#34;https://oshwc.org/posts/oshwc2026akihabaraspring4exhivitors&#34;&gt;https://oshwc.org/posts/oshwc2026akihabaraspring4exhivitors&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;p&gt;(展示、登壇してみたいと思った方はこちら→ &lt;a href=&#34;https://oshwc.org/posts/oshwc2026akihabaraspringentry&#34;&gt;https://oshwc.org/posts/oshwc2026akihabaraspringentry&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;h2 id=&#34;オープンハードカンファレンス-2026-akihabara&#34;&gt;オープンハードカンファレンス 2026 Akihabara&lt;/h2&gt;&#xA;&lt;p&gt;岩本町JLCPCBオフィスで開催予定のオープンハードカンファレンス。 2026年3月23日開催！&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/OSHWC2025AkihabaraspringPoster.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>https://oshwc.org/posts/oshwc2026akihabaraspring/</guid>
+      <description>&lt;p&gt;(展示、登壇者向けの情報はこちら→ &lt;a href=&#34;https://oshwc.org/posts/oshwc2026akihabaraspring4exhivitors&#34;&gt;https://oshwc.org/posts/oshwc2026akihabaraspring4exhivitors&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;p&gt;(展示、登壇してみたいと思った方はこちら→ &lt;a href=&#34;https://oshwc.org/posts/oshwc2026akihabaraspringentry&#34;&gt;https://oshwc.org/posts/oshwc2026akihabaraspringentry&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;h2 id=&#34;オープンハードカンファレンス-2026-akihabara&#34;&gt;オープンハードカンファレンス 2026 Akihabara&lt;/h2&gt;&#xA;&lt;p&gt;岩本町JLCPCBオフィスで開催予定のオープンハードカンファレンス。 2026年3月22日開催！&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/OSHWC2026AkihabaraspringPoster.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>OSHWC2025Akihabara 次回予定</title>
-      <link>http://localhost:1313/posts/20251112oshwc2025akihabara2025schedule/</link>
+      <link>https://oshwc.org/posts/20251112oshwc2025akihabara2025schedule/</link>
       <pubDate>Wed, 12 Nov 2025 19:15:40 +0900</pubDate>
-      <guid>http://localhost:1313/posts/20251112oshwc2025akihabara2025schedule/</guid>
+      <guid>https://oshwc.org/posts/20251112oshwc2025akihabara2025schedule/</guid>
       <description></description>
     </item>
     <item>
       <title>OSHWC2025Akihabara 懇親会</title>
-      <link>http://localhost:1313/posts/20251112oshwc2025akihabaraparty/</link>
+      <link>https://oshwc.org/posts/20251112oshwc2025akihabaraparty/</link>
       <pubDate>Wed, 12 Nov 2025 19:14:04 +0900</pubDate>
-      <guid>http://localhost:1313/posts/20251112oshwc2025akihabaraparty/</guid>
-      <description></description>
+      <guid>https://oshwc.org/posts/20251112oshwc2025akihabaraparty/</guid>
+      <description>&lt;p&gt;オープンハードカンファレンス2025Akihabara終了後に、同じ場所で懇親会を開催!&lt;/p&gt;&#xA;&lt;p&gt;恒例、高電熱起動ピザ窯を使ったピザパーティです。&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20251112OSHWC2025Akihabaraparty/PXL_20250921_075557014.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OSHWC2025Akihabara セミナー動画</title>
-      <link>http://localhost:1313/posts/20251112oshwc2025akihabaraseminarmovie/</link>
+      <link>https://oshwc.org/posts/20251112oshwc2025akihabaraseminarmovie/</link>
       <pubDate>Wed, 12 Nov 2025 19:13:13 +0900</pubDate>
-      <guid>http://localhost:1313/posts/20251112oshwc2025akihabaraseminarmovie/</guid>
-      <description></description>
+      <guid>https://oshwc.org/posts/20251112oshwc2025akihabaraseminarmovie/</guid>
+      <description>&lt;p&gt;オープンハードカンファレンス 2025 Akihabara セミナー #1「JLCPCBで楽しく！」&#xA;&lt;a href=&#34;https://youtu.be/vfpKd3uYCYM&#34;&gt;https://youtu.be/vfpKd3uYCYM&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;オープンハードカンファレンス 2025 Akihabara セミナー #2「NFCカラー名刺基板を製造しよう！」&#xA;&lt;a href=&#34;https://youtu.be/Bfk5qv_ZiKc&#34;&gt;https://youtu.be/Bfk5qv_ZiKc&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;オープンハードカンファレンス 2025 Akihabara セミナー #3「秋葉原電気街を未来の子どもたちに継承するためにいま、私たちができること」&#xA;&lt;a href=&#34;https://youtu.be/wn50PuDCdyE&#34;&gt;https://youtu.be/wn50PuDCdyE&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;オープンハードカンファレンス 2025 Akihabara セミナー #4「自作キーボードメーカー様向けマイコンモジュール」&#xA;&lt;a href=&#34;https://youtu.be/8ETNRJY4tOQ&#34;&gt;https://youtu.be/8ETNRJY4tOQ&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OSHWC2025Akihabara 開催レポート</title>
-      <link>http://localhost:1313/posts/20251112oshwc2025akihabarareport/</link>
+      <link>https://oshwc.org/posts/20251112oshwc2025akihabarareport/</link>
       <pubDate>Wed, 12 Nov 2025 19:11:53 +0900</pubDate>
-      <guid>http://localhost:1313/posts/20251112oshwc2025akihabarareport/</guid>
-      <description></description>
+      <guid>https://oshwc.org/posts/20251112oshwc2025akihabarareport/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20251112OSHWC2025Akihabarareport/PXL_20250921_070734568.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;PCN秋葉原様はアイロンビーズの体験コーナを用意。&lt;/p&gt;</description>
     </item>
     <item>
       <title>OSHWC2025Akihabara 開催しました!</title>
-      <link>http://localhost:1313/posts/20251112oshwc2025akihabaradone/</link>
+      <link>https://oshwc.org/posts/20251112oshwc2025akihabaradone/</link>
       <pubDate>Wed, 12 Nov 2025 19:08:01 +0900</pubDate>
-      <guid>http://localhost:1313/posts/20251112oshwc2025akihabaradone/</guid>
-      <description></description>
+      <guid>https://oshwc.org/posts/20251112oshwc2025akihabaradone/</guid>
+      <description>&lt;p&gt;当日は想像以上に盛り上がり、あっという間の時間でした。&#xA;参加してくださった皆さんのおかげで、印象に残るイベントになりました。&lt;/p&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20251112OSHWC2025Akihabaradone/IMG_2503.JPG&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;レゴで作られた作品に、子どもたちが目を輝かせて見入っている、温かくてワクワクする光景だと感じました。&lt;/p&gt;</description>
     </item>
     <item>
       <title>oshwc2025akihabara</title>
-      <link>http://localhost:1313/posts/oshwc2025akihabara/</link>
+      <link>https://oshwc.org/posts/oshwc2025akihabara/</link>
       <pubDate>Sun, 21 Sep 2025 06:30:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/oshwc2025akihabara/</guid>
-      <description>&lt;p&gt;(展示、登壇者向けの情報はこちら→ &lt;a href=&#34;https://oshwc.org/posts/oshwc2025akihabara4exhivitors&#34;&gt;https://oshwc.org/posts/oshwc2025akihabara4exhivitors&lt;/a&gt; )&lt;/p&gt;&#xA;&lt;p&gt;(展示、登壇してみたいと思った方はこちら→ &lt;a href=&#34;https://oshwc.org/posts/oshwc2025akihabaraentry&#34;&gt;https://oshwc.org/posts/oshwc2025akihabaraentry&lt;/a&gt; )&lt;/p&gt;&#xA;&lt;h2 id=&#34;オープンハードカンファレンス-2025-akihabara&#34;&gt;オープンハードカンファレンス 2025 Akihabara&lt;/h2&gt;&#xA;&lt;p&gt;岩本町JLCPCBオフィスで開催予定のオープンハードカンファレンス。 2025年9月21日開催！&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/OSHWC2025AkihabaraPoster.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>https://oshwc.org/posts/oshwc2025akihabara/</guid>
+      <description>&lt;p&gt;(展示、登壇者向けの情報はこちら→ &lt;a href=&#34;https://oshwc.org/posts/oshwc2025akihabara4exhivitors&#34;&gt;https://oshwc.org/posts/oshwc2025akihabara4exhivitors&lt;/a&gt; )&lt;/p&gt;&#xA;&lt;p&gt;(展示、登壇してみたいと思った方はこちら→ &lt;a href=&#34;https://oshwc.org/posts/oshwc2025akihabaraentry&#34;&gt;https://oshwc.org/posts/oshwc2025akihabaraentry&lt;/a&gt; )&lt;/p&gt;&#xA;&lt;h2 id=&#34;オープンハードカンファレンス-2025-akihabara&#34;&gt;オープンハードカンファレンス 2025 Akihabara&lt;/h2&gt;&#xA;&lt;p&gt;岩本町JLCPCBオフィスで開催予定のオープンハードカンファレンス。 2025年9月21日開催！&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/OSHWC2025AkihabaraPoster.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>2025akihabara-体験5</title>
-      <link>http://localhost:1313/posts/2025akihabaraakbrobotelectronicwork/</link>
+      <link>https://oshwc.org/posts/2025akihabaraakbrobotelectronicwork/</link>
       <pubDate>Sun, 21 Sep 2025 06:25:18 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2025akihabaraakbrobotelectronicwork/</guid>
-      <description>&lt;h1 id=&#34;かんたん-電子工作&#34;&gt;かんたん! 電子工作&lt;/h1&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250921Electronicwork.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;秘密結社オープンフォースの電子工作コーナーはNT東京で好評だった信号機キット。&#xA;なんと絵の具と筆が付いてくる。好きな色に塗って未就学児から楽しめる。&#xA;他にもかんたんな工作を用意しているよ。キットをその場で買って組み立てよう！&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/2025akihabaraakbrobotelectronicwork/</guid>
+      <description>&lt;h1 id=&#34;かんたん-電子工作&#34;&gt;かんたん! 電子工作&lt;/h1&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250921Electronicwork.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;秘密結社オープンフォースの電子工作コーナーはNT東京で好評だった信号機キット。&#xA;なんと絵の具と筆が付いてくる。好きな色に塗って未就学児から楽しめる。&lt;/p&gt;&#xA;&lt;p&gt;他にもかんたんな工作を用意しているよ。キットをその場で買って組み立てよう！&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025akihabara-展示10</title>
-      <link>http://localhost:1313/posts/2025akihabaraswitchesmart/</link>
+      <link>https://oshwc.org/posts/2025akihabaraswitchesmart/</link>
       <pubDate>Sun, 21 Sep 2025 05:39:40 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2025akihabaraswitchesmart/</guid>
-      <description>&lt;h1 id=&#34;switchesmart&#34;&gt;SwitchesMart&lt;/h1&gt;&#xA;&lt;p&gt;自作キーボードメーカー様向けマイコンモジュール&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250921SwitchesMart.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;業界初の自作キーボード向けマイコンモジュールに特化した設計・製造・ライセンス販売・オーダーメイド設計をしてます。&#xA;エンドユーザー様への販売に始まり、自作キーボードメーカー様（既に著名な方と取引実績あり）に対する部品供給、ライセンス契約も主力としております。&#xA;つまりBtoBを軸にしてます。&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/2025akihabaraswitchesmart/</guid>
+      <description>&lt;h1 id=&#34;switchesmart&#34;&gt;SwitchesMart&lt;/h1&gt;&#xA;&lt;p&gt;自作キーボードメーカー様向けマイコンモジュール&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250921SwitchesMart.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;業界初の自作キーボード向けマイコンモジュールに特化した設計・製造・ライセンス販売・オーダーメイド設計をしてます。&#xA;エンドユーザー様への販売に始まり、自作キーボードメーカー様（既に著名な方と取引実績あり）に対する部品供給、ライセンス契約も主力としております。&#xA;つまりBtoBを軸にしてます。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025akihabara-展示9</title>
-      <link>http://localhost:1313/posts/2025akihabaraakbradio/</link>
+      <link>https://oshwc.org/posts/2025akihabaraakbradio/</link>
       <pubDate>Sun, 21 Sep 2025 05:37:04 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2025akihabaraakbradio/</guid>
-      <description>&lt;h1 id=&#34;秋葉原無線部&#34;&gt;秋葉原無線部&lt;/h1&gt;&#xA;&lt;p&gt;秋葉原無線部&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250921Akbradio.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;無線通信に関連する工作物、トランシーバ、アンテナ等の展示販売。&#xA;アマチュア無線に関する実験や研究、入門書等の同人誌の販売。&#xA;免許が必要なアマチュア無線に限らず、BLEやLoRa等の様々な無線機器でも遊んでいます。&#xA;ビットコイン、モナコイン、EVM系他各種ブロックチェーン決済を歓迎します☆&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/2025akihabaraakbradio/</guid>
+      <description>&lt;h1 id=&#34;秋葉原無線部&#34;&gt;秋葉原無線部&lt;/h1&gt;&#xA;&lt;p&gt;秋葉原無線部&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250921Akbradio.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;無線通信に関連する工作物、トランシーバ、アンテナ等の展示販売。&#xA;アマチュア無線に関する実験や研究、入門書等の同人誌の販売。&#xA;免許が必要なアマチュア無線に限らず、BLEやLoRa等の様々な無線機器でも遊んでいます。&#xA;ビットコイン、モナコイン、EVM系他各種ブロックチェーン決済を歓迎します☆&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025akihabara-体験1</title>
-      <link>http://localhost:1313/posts/2025akihabaraironbeads/</link>
+      <link>https://oshwc.org/posts/2025akihabaraironbeads/</link>
       <pubDate>Sun, 21 Sep 2025 05:34:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2025akihabaraironbeads/</guid>
-      <description>&lt;h1 id=&#34;立体アイロンビーズ体験&#34;&gt;立体アイロンビーズ体験&lt;/h1&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250921Ironbeads.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;アイロンビーズをはじめて遊ぶという方や初心者さん向けのワークショップです。&#xA;「アイロンビーズ」というドットっぽい作品がつくれるビーズを使って、多面体をつくってあそびましょう。&#xA;LEDなどで光らせるととてもきれいなので、ちょっと豪華なエルチカパーツにしてください。&lt;/p&gt;&#xA;&lt;p&gt;所要時間(目安)　 30分～1時間&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/2025akihabaraironbeads/</guid>
+      <description>&lt;h1 id=&#34;立体アイロンビーズ体験&#34;&gt;立体アイロンビーズ体験&lt;/h1&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250921Ironbeads.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;アイロンビーズをはじめて遊ぶという方や初心者さん向けのワークショップです。&#xA;「アイロンビーズ」というドットっぽい作品がつくれるビーズを使って、多面体をつくってあそびましょう。&#xA;LEDなどで光らせるととてもきれいなので、ちょっと豪華なエルチカパーツにしてください。&lt;/p&gt;&#xA;&lt;p&gt;所要時間(目安)　 30分～1時間&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025akihabara-体験3</title>
-      <link>http://localhost:1313/posts/2025akihabaraopenforce/</link>
+      <link>https://oshwc.org/posts/2025akihabaraopenforce/</link>
       <pubDate>Sun, 21 Sep 2025 05:26:59 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2025akihabaraopenforce/</guid>
-      <description>&lt;h1 id=&#34;はんだづけコーナー&#34;&gt;はんだづけコーナー&lt;/h1&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250921openforce.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;オープンハードカンファレンスのファミリー体験ははんだづけコーナーもあるよ。&#xA;キット販売、持ち込みOK、大きなお友達も Welcome。&#xA;はんだづけを体験してみよう！&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/2025akihabaraopenforce/</guid>
+      <description>&lt;h1 id=&#34;はんだづけコーナー&#34;&gt;はんだづけコーナー&lt;/h1&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250921openforce.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;オープンハードカンファレンスのファミリー体験ははんだづけコーナーもあるよ。&#xA;キット販売、持ち込みOK、大きなお友達も Welcome。&#xA;はんだづけを体験してみよう！&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025akihabara-展示8</title>
-      <link>http://localhost:1313/posts/2025akihabarapcnakb/</link>
+      <link>https://oshwc.org/posts/2025akihabarapcnakb/</link>
       <pubDate>Sun, 21 Sep 2025 05:24:30 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2025akihabarapcnakb/</guid>
-      <description>&lt;h1 id=&#34;pcn秋葉原&#34;&gt;PCN秋葉原&lt;/h1&gt;&#xA;&lt;p&gt;IchigoJam×アイロンビーズ&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250921PCNakb.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;IchigoJamに合う基板と、アイロンビーズ×電子工作をテーマに展示をします。&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/2025akihabarapcnakb/</guid>
+      <description>&lt;h1 id=&#34;pcn秋葉原&#34;&gt;PCN秋葉原&lt;/h1&gt;&#xA;&lt;p&gt;IchigoJam×アイロンビーズ&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250921PCNakb.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;IchigoJamに合う基板と、アイロンビーズ×電子工作をテーマに展示をします。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025akihabara-体験2</title>
-      <link>http://localhost:1313/posts/2025akihabarakawanonaduki/</link>
+      <link>https://oshwc.org/posts/2025akihabarakawanonaduki/</link>
       <pubDate>Sun, 21 Sep 2025 05:21:57 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2025akihabarakawanonaduki/</guid>
-      <description>&lt;h1 id=&#34;化学でスイーツ&#34;&gt;化学でスイーツ！&lt;/h1&gt;&#xA;&lt;p&gt;リバー&amp;amp;フィールド&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250921kawanonaduki.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;「科学スイーツ」比重でグラデーションドリンクをつくろう！&#xA;自分で素敵なドリンクを作ってね。&#xA;明日秋葉原で開催のオープンハードカンファレンスのファミリー体験コーナー。&#xA;無料だよ!&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/2025akihabarakawanonaduki/</guid>
+      <description>&lt;h1 id=&#34;化学でスイーツ&#34;&gt;化学でスイーツ！&lt;/h1&gt;&#xA;&lt;p&gt;リバー&amp;amp;フィールド&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250921kawanonaduki.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;「科学スイーツ」比重でグラデーションドリンクをつくろう！&#xA;自分で素敵なドリンクを作ってね。&#xA;明日秋葉原で開催のオープンハードカンファレンスのファミリー体験コーナー。&#xA;無料だよ!&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025akihabara-展示7</title>
-      <link>http://localhost:1313/posts/2025akihabararinoproducts/</link>
+      <link>https://oshwc.org/posts/2025akihabararinoproducts/</link>
       <pubDate>Sun, 21 Sep 2025 05:19:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2025akihabararinoproducts/</guid>
-      <description>&lt;h1 id=&#34;rino-products&#34;&gt;rino products&lt;/h1&gt;&#xA;&lt;p&gt;rino products 同人基板販売&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250921rinoproducts.PNG&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;こんにちはrino productsです。&#xA;今回USBポートに直接接続して、IoTができるボードを開発しました。&#xA;ESP-nowを使ってセンサーPCBから送られてくる情報を集めてSDカードに記載したり、PCからBluetooth 通信で他のデバイスにデータを送るといった事を実現する事を目的としたデバイスになります。&#xA;オープンハードカンファレンスではこのデバイスの紹介と販売をさせていただきます。&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/2025akihabararinoproducts/</guid>
+      <description>&lt;h1 id=&#34;rino-products&#34;&gt;rino products&lt;/h1&gt;&#xA;&lt;p&gt;rino products 同人基板販売&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250921rinoproducts.PNG&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;こんにちはrino productsです。&#xA;今回USBポートに直接接続して、IoTができるボードを開発しました。&#xA;ESP-nowを使ってセンサーPCBから送られてくる情報を集めてSDカードに記載したり、PCからBluetooth 通信で他のデバイスにデータを送るといった事を実現する事を目的としたデバイスになります。&#xA;オープンハードカンファレンスではこのデバイスの紹介と販売をさせていただきます。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025akihabara-体験4</title>
-      <link>http://localhost:1313/posts/2025akihabaraakbrobot/</link>
+      <link>https://oshwc.org/posts/2025akihabaraakbrobot/</link>
       <pubDate>Sun, 21 Sep 2025 05:12:17 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2025akihabaraakbrobot/</guid>
-      <description>&lt;h1 id=&#34;じゃんけんマシンﾌﾞﾛｯｸエレベーター&#34;&gt;じゃんけんマシン、ﾌﾞﾛｯｸエレベーター&lt;/h1&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250921Akbrobot.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;じゃんけんで勝った人は熊秀創吉のキャラクターカードがもらえる.&#xA;エレベーターはふつうのエレベーターのように各階の呼び出しボタンや、かご内の行き先ボタンを押すと自動で昇降し、扉のかいへいも自動で行われる。&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/2025akihabaraakbrobot/</guid>
+      <description>&lt;h1 id=&#34;じゃんけんマシンﾌﾞﾛｯｸエレベーター&#34;&gt;じゃんけんマシン、ﾌﾞﾛｯｸエレベーター&lt;/h1&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250921Akbrobot.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;じゃんけんで勝った人は熊秀創吉のキャラクターカードがもらえる.&#xA;エレベーターはふつうのエレベーターのように各階の呼び出しボタンや、かご内の行き先ボタンを押すと自動で昇降し、扉のかいへいも自動で行われる。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025akihabara-展示6</title>
-      <link>http://localhost:1313/posts/2025akihabarayuuichiakagawa/</link>
+      <link>https://oshwc.org/posts/2025akihabarayuuichiakagawa/</link>
       <pubDate>Sun, 21 Sep 2025 05:08:40 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2025akihabarayuuichiakagawa/</guid>
-      <description>&lt;h1 id=&#34;yuuichi-akagawa&#34;&gt;Yuuichi Akagawa&lt;/h1&gt;&#xA;&lt;p&gt;自作のMIDI関連ツール達&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250921YuuichiAkagawa.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;電子楽器同士の同期に使用されるMIDI Clockメッセージを2PPQのSync out信号に変換する「MIDI to Sync Converter」など、自作のMIDI小物を出展します。&#xA;一部のツールは当日購入可能です。&#xA;加えて試作中のMIDI2.0コントローラの展示も予定しています。&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/2025akihabarayuuichiakagawa/</guid>
+      <description>&lt;h1 id=&#34;yuuichi-akagawa&#34;&gt;Yuuichi Akagawa&lt;/h1&gt;&#xA;&lt;p&gt;自作のMIDI関連ツール達&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250921YuuichiAkagawa.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;電子楽器同士の同期に使用されるMIDI Clockメッセージを2PPQのSync out信号に変換する「MIDI to Sync Converter」など、自作のMIDI小物を出展します。&#xA;一部のツールは当日購入可能です。&#xA;加えて試作中のMIDI2.0コントローラの展示も予定しています。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025akihabara-展示5</title>
-      <link>http://localhost:1313/posts/2025akihabarakirisamekoubou/</link>
+      <link>https://oshwc.org/posts/2025akihabarakirisamekoubou/</link>
       <pubDate>Sun, 21 Sep 2025 05:04:28 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2025akihabarakirisamekoubou/</guid>
-      <description>&lt;h1 id=&#34;霧雨工房&#34;&gt;霧雨工房&lt;/h1&gt;&#xA;&lt;p&gt;トラッカー、ペンライト、マイコンボード&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250921kirisamekoubou.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;3DVtuberの配信で利用する無線のハンドトラッキングデバイスです。&#xA;光センサーで指のトラッキングを行います。&#xA;Vtuberの推し活用ガジェットとして開発中の振って弾幕が送信出来るペンライトになります。&#xA;また同時出展の三峰スズは、試作に便利なマイコンボード（CH32V,ESP32-C3/S3）と、チップの特徴を生かした応用例を展示します。&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/2025akihabarakirisamekoubou/</guid>
+      <description>&lt;h1 id=&#34;霧雨工房&#34;&gt;霧雨工房&lt;/h1&gt;&#xA;&lt;p&gt;トラッカー、ペンライト、マイコンボード&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250921kirisamekoubou.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;3DVtuberの配信で利用する無線のハンドトラッキングデバイスです。&#xA;光センサーで指のトラッキングを行います。&#xA;Vtuberの推し活用ガジェットとして開発中の振って弾幕が送信出来るペンライトになります。&#xA;また同時出展の三峰スズは、試作に便利なマイコンボード（CH32V,ESP32-C3/S3）と、チップの特徴を生かした応用例を展示します。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025akihabara-展示4</title>
-      <link>http://localhost:1313/posts/2025akihabararobostudio/</link>
+      <link>https://oshwc.org/posts/2025akihabararobostudio/</link>
       <pubDate>Sun, 21 Sep 2025 04:58:04 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2025akihabararobostudio/</guid>
-      <description>&lt;h1 id=&#34;ロボスタディオン&#34;&gt;ロボ☆スタディオン&lt;/h1&gt;&#xA;&lt;p&gt;ロボ⭐︎スタディオン&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250921robostudio.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;Geekは政治で遊ぶ、アナーキーインザスカイ！！&#xA;MAKE AKIHABARA GREAT AGAIN！！&#xA;もう一度電気で元気で本気の秋葉原を取り戻そう！！！&#xA;AIロボットによる統治はすぐそこだ！！！&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/2025akihabararobostudio/</guid>
+      <description>&lt;h1 id=&#34;ロボスタディオン&#34;&gt;ロボ☆スタディオン&lt;/h1&gt;&#xA;&lt;p&gt;ロボ⭐︎スタディオン&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250921robostudio.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;Geekは政治で遊ぶ、アナーキーインザスカイ！！&#xA;MAKE AKIHABARA GREAT AGAIN！！&#xA;もう一度電気で元気で本気の秋葉原を取り戻そう！！！&#xA;AIロボットによる統治はすぐそこだ！！！&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025akihabara-展示3</title>
-      <link>http://localhost:1313/posts/2025akihabaraopenforcespacefarm/</link>
+      <link>https://oshwc.org/posts/2025akihabaraopenforcespacefarm/</link>
       <pubDate>Sun, 21 Sep 2025 04:51:57 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2025akihabaraopenforcespacefarm/</guid>
-      <description>&lt;h1 id=&#34;秘密結社オープンフォース宇宙開発局&#34;&gt;秘密結社オープンフォース　宇宙開発局&lt;/h1&gt;&#xA;&lt;p&gt;宇宙農場計画&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250921openforcespacefarm.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;宇宙開発向け食用植物栽培の自動省力化機器開発の試作機動態展示&#xA;展示デモ使用植物は懇親会にて提供&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/2025akihabaraopenforcespacefarm/</guid>
+      <description>&lt;h1 id=&#34;秘密結社オープンフォース宇宙開発局&#34;&gt;秘密結社オープンフォース　宇宙開発局&lt;/h1&gt;&#xA;&lt;p&gt;宇宙農場計画&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250921openforcespacefarm.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;宇宙開発向け食用植物栽培の自動省力化機器開発の試作機動態展示&#xA;展示デモ使用植物は懇親会にて提供&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025akihabara-展示2</title>
-      <link>http://localhost:1313/posts/2025akihabaratinygokeeb/</link>
+      <link>https://oshwc.org/posts/2025akihabaratinygokeeb/</link>
       <pubDate>Sun, 21 Sep 2025 04:32:47 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2025akihabaratinygokeeb/</guid>
-      <description>&lt;h1 id=&#34;tinygo-keeb&#34;&gt;TinyGo Keeb&lt;/h1&gt;&#xA;&lt;p&gt;TinyGoで動くキーボードやGopherくん基板を展示します&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250921tinygokeeb.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;オフラインで自作キーボードを作ったり、作ったキーボード上で TinyGo で遊んだりしているグループです。&#xA;Go に興味がある方、TinyGo を触ってみたい方、自作キーボードに興味があるかた大歓迎！&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/2025akihabaratinygokeeb/</guid>
+      <description>&lt;h1 id=&#34;tinygo-keeb&#34;&gt;TinyGo Keeb&lt;/h1&gt;&#xA;&lt;p&gt;TinyGoで動くキーボードやGopherくん基板を展示します&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250921tinygokeeb.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;オフラインで自作キーボードを作ったり、作ったキーボード上で TinyGo で遊んだりしているグループです。&#xA;Go に興味がある方、TinyGo を触ってみたい方、自作キーボードに興味があるかた大歓迎！&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025akihabara-展示1</title>
-      <link>http://localhost:1313/posts/2025akihabaraookawauti/</link>
+      <link>https://oshwc.org/posts/2025akihabaraookawauti/</link>
       <pubDate>Sun, 21 Sep 2025 04:15:39 +0900</pubDate>
-      <guid>http://localhost:1313/posts/2025akihabaraookawauti/</guid>
-      <description>&lt;h1 id=&#34;大河内克章&#34;&gt;大河内　克章&lt;/h1&gt;&#xA;&lt;p&gt;PLCとセンサーで学べる学習キット   　&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250921ookawauti.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;本製品はCAH様製作のマイコンPLC-IO86Aを使用したコンパクトで持ち運びが出来る&#xA;PLC装置と自作で製作しました入出力機器の展示品となっています。&lt;/p&gt;&#xA;&lt;p&gt;PLC学習をこれから行うにあたり簡単に且つより多くのプログラム例を取り上げ&#xA;周辺装置のセンサー、入力スイッチ、出力機器も取り上げながら知識を習得する事を目的とし早くに業務での実践,キャリアアップ等に生かせて頂ける事を思い製作しました。&lt;/p&gt;&#xA;&lt;p&gt;又、液晶ディスプレイ関係の後付けのケースも製作して展示おりお手に触れて見て頂けたら&#xA;と思っております。&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/2025akihabaraookawauti/</guid>
+      <description>&lt;h1 id=&#34;大河内克章&#34;&gt;大河内　克章&lt;/h1&gt;&#xA;&lt;p&gt;PLCとセンサーで学べる学習キット   　&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250921ookawauti.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;本製品はCAH様製作のマイコンPLC-IO86Aを使用したコンパクトで持ち運びが出来る&#xA;PLC装置と自作で製作しました入出力機器の展示品となっています。&lt;/p&gt;&#xA;&lt;p&gt;PLC学習をこれから行うにあたり簡単に且つより多くのプログラム例を取り上げ&#xA;周辺装置のセンサー、入力スイッチ、出力機器も取り上げながら知識を習得する事を目的とし早くに業務での実践,キャリアアップ等に生かせて頂ける事を思い製作しました。&lt;/p&gt;&#xA;&lt;p&gt;又、液晶ディスプレイ関係の後付けのケースも製作して展示おりお手に触れて見て頂けたら&#xA;と思っております。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Oshwc2025akihabara4exhivitors</title>
-      <link>http://localhost:1313/posts/oshwc2025akihabara4exhivitors/</link>
+      <link>https://oshwc.org/posts/oshwc2025akihabara4exhivitors/</link>
       <pubDate>Wed, 17 Sep 2025 22:30:28 +0900</pubDate>
-      <guid>http://localhost:1313/posts/oshwc2025akihabara4exhivitors/</guid>
-      <description>&lt;h2 id=&#34;for-exhivitors-登壇者出展者体験コーナー運営の皆様へ&#34;&gt;for exhivitors 登壇者、出展者、体験コーナー運営の皆様へ&lt;/h2&gt;&#xA;&lt;p&gt;(2025/09/17 Update)&lt;/p&gt;&#xA;&lt;h2 id=&#34;会場について&#34;&gt;会場について&lt;/h2&gt;&#xA;&lt;h3 id=&#34;場所&#34;&gt;場所&lt;/h3&gt;&#xA;&lt;p&gt;JLCPCB オフィスで行います。 住所 東京都千代田区岩本町三丁目2番1号ビリーフ岩本町201号室。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;JR秋葉原駅昭和通り改札から徒歩10分&lt;/li&gt;&#xA;&lt;li&gt;都営日比谷線秋葉原駅4番出口より徒歩5分&lt;/li&gt;&#xA;&lt;li&gt;都営新宿線岩本町A5出口より徒歩1分&lt;/li&gt;&#xA;&lt;li&gt;ビル南側の路地に入口があります。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;アクセス →   &lt;a href=&#34;https://oshwc.org/posts/go2jlcpcboffice&#34;&gt;https://oshwc.org/posts/go2jlcpcboffice&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;レイアウト&#34;&gt;レイアウト&lt;/h3&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/OSHWC2025akihabara%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>https://oshwc.org/posts/oshwc2025akihabara4exhivitors/</guid>
+      <description>&lt;h2 id=&#34;for-exhivitors-登壇者出展者体験コーナー運営の皆様へ&#34;&gt;for exhivitors 登壇者、出展者、体験コーナー運営の皆様へ&lt;/h2&gt;&#xA;&lt;p&gt;(2025/09/17 Update)&lt;/p&gt;&#xA;&lt;h2 id=&#34;会場について&#34;&gt;会場について&lt;/h2&gt;&#xA;&lt;h3 id=&#34;場所&#34;&gt;場所&lt;/h3&gt;&#xA;&lt;p&gt;JLCPCB オフィスで行います。 住所 東京都千代田区岩本町三丁目2番1号ビリーフ岩本町201号室。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;JR秋葉原駅昭和通り改札から徒歩10分&lt;/li&gt;&#xA;&lt;li&gt;都営日比谷線秋葉原駅4番出口より徒歩5分&lt;/li&gt;&#xA;&lt;li&gt;都営新宿線岩本町A5出口より徒歩1分&lt;/li&gt;&#xA;&lt;li&gt;ビル南側の路地に入口があります。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;アクセス →   &lt;a href=&#34;https://oshwc.org/posts/go2jlcpcboffice&#34;&gt;https://oshwc.org/posts/go2jlcpcboffice&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;レイアウト&#34;&gt;レイアウト&lt;/h3&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/OSHWC2025akihabara%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>JLCPCB様にご紹介いただきました！</title>
-      <link>http://localhost:1313/posts/20250916jlcpcbcom/</link>
+      <link>https://oshwc.org/posts/20250916jlcpcbcom/</link>
       <pubDate>Tue, 16 Sep 2025 20:23:40 +0900</pubDate>
-      <guid>http://localhost:1313/posts/20250916jlcpcbcom/</guid>
-      <description>&lt;p&gt;今回の オープンハードカンファレンス 2025 Akihabara は、 中国の基板製造などのサービスプロバイダーである JLCPCB 様と協力して開催に向けて準備しています。この度 JLCPCB 様の公式メディアにて、私どもの活動をご紹介いただきました。&lt;br&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250916JLCPCB.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/20250916jlcpcbcom/</guid>
+      <description>&lt;p&gt;今回の オープンハードカンファレンス 2025 Akihabara は、 中国の基板製造などのサービスプロバイダーである JLCPCB 様と協力して開催に向けて準備しています。この度 JLCPCB 様の公式メディアにて、私どもの活動をご紹介いただきました。&lt;br&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250916JLCPCB.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>はんだづけなしの電子工作</title>
-      <link>http://localhost:1313/posts/20250916-signalkit/</link>
+      <link>https://oshwc.org/posts/20250916-signalkit/</link>
       <pubDate>Tue, 16 Sep 2025 19:18:50 +0900</pubDate>
-      <guid>http://localhost:1313/posts/20250916-signalkit/</guid>
-      <description>&lt;p&gt;NT東京2025 において、「秘密結社オープンフォース」は、宇宙での植物栽培の展示および、電子工作コーナーを楽しんでもらいました。&lt;/p&gt;&#xA;&lt;p&gt;電子工作コーナでの、一番カンタンな工作の信号キット。&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/oshwc2025akihabara/signalkit_IMG_20250906_153258.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/20250916-signalkit/</guid>
+      <description>&lt;p&gt;NT東京2025 において、「秘密結社オープンフォース」は、宇宙での植物栽培の展示および、電子工作コーナーを楽しんでもらいました。&lt;/p&gt;&#xA;&lt;p&gt;電子工作コーナでの、一番カンタンな工作の信号キット。&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/oshwc2025akihabara/signalkit_IMG_20250906_153258.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>懇親会の食材を栽培</title>
-      <link>http://localhost:1313/posts/20250916-plant/</link>
+      <link>https://oshwc.org/posts/20250916-plant/</link>
       <pubDate>Tue, 16 Sep 2025 19:13:51 +0900</pubDate>
-      <guid>http://localhost:1313/posts/20250916-plant/</guid>
-      <description>&lt;p&gt;前回、OSHWC 2025 Saitama の懇親会では、秘密結社オープンフォース宇宙開発局 の宇宙農業のデモで栽培したバジルをむしってトルティーヤを楽しみました。&lt;/p&gt;&#xA;&lt;p&gt;今回も同様に、宇宙栽培デモの植物を懇親会で披露します・・・が、今回豆苗を育てていたのが調子が悪く、バジルとミントを急遽栽培を開始しました。&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250916-plant.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/20250916-plant/</guid>
+      <description>&lt;p&gt;前回、OSHWC 2025 Saitama の懇親会では、秘密結社オープンフォース宇宙開発局 の宇宙農業のデモで栽培したバジルをむしってトルティーヤを楽しみました。&lt;/p&gt;&#xA;&lt;p&gt;今回も同様に、宇宙栽培デモの植物を懇親会で披露します・・・が、今回豆苗を育てていたのが調子が悪く、バジルとミントを急遽栽培を開始しました。&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250916-plant.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>MAGA</title>
-      <link>http://localhost:1313/posts/20250915cake/</link>
+      <link>https://oshwc.org/posts/20250915cake/</link>
       <pubDate>Mon, 15 Sep 2025 21:32:02 +0900</pubDate>
-      <guid>http://localhost:1313/posts/20250915cake/</guid>
-      <description>&lt;p&gt;9月21日の オープンハードカンファレンス 2025 Akihabara の準備をしています。今回は試作品づくり。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250915-cake.jpeg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>https://oshwc.org/posts/20250915cake/</guid>
+      <description>&lt;p&gt;9月21日の オープンハードカンファレンス 2025 Akihabara の準備をしています。今回は試作品づくり。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250915-cake.jpeg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>ディスプレイを用意しました</title>
-      <link>http://localhost:1313/posts/20250910display/</link>
+      <link>https://oshwc.org/posts/20250910display/</link>
       <pubDate>Wed, 10 Sep 2025 22:00:04 +0900</pubDate>
-      <guid>http://localhost:1313/posts/20250910display/</guid>
-      <description>&lt;p&gt;オープンハードカンファレンス 2025 Akihabara に向けて、会場に什器を運んでいます。&#xA;丸イスに続き、今度は 52インチディスプレイを岩本町まで移動しました。&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250910display-1.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/20250910display/</guid>
+      <description>&lt;p&gt;オープンハードカンファレンス 2025 Akihabara に向けて、会場に什器を運んでいます。&#xA;丸イスに続き、今度は 52インチディスプレイを岩本町まで移動しました。&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250910display-1.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>丸イス</title>
-      <link>http://localhost:1313/posts/20250909maruisu/</link>
+      <link>https://oshwc.org/posts/20250909maruisu/</link>
       <pubDate>Tue, 09 Sep 2025 20:46:35 +0900</pubDate>
-      <guid>http://localhost:1313/posts/20250909maruisu/</guid>
-      <description>&lt;p&gt;2025/09/21開催のオープンハードカンファレンス 2025 Akihabara 。会場にはイベント用の什器が無いので手配しないといけません。今回はケチケチ作戦で、格安丸イスをタオバオで買ってきました。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20250909maruisu-1.jpeg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>https://oshwc.org/posts/20250909maruisu/</guid>
+      <description>&lt;p&gt;2025/09/21開催のオープンハードカンファレンス 2025 Akihabara 。会場にはイベント用の什器が無いので手配しないといけません。今回はケチケチ作戦で、格安丸イスをタオバオで買ってきました。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/20250909maruisu-1.jpeg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>乳児対応</title>
-      <link>http://localhost:1313/posts/forbaby/</link>
+      <link>https://oshwc.org/posts/forbaby/</link>
       <pubDate>Mon, 08 Sep 2025 21:28:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/forbaby/</guid>
-      <description>&lt;p&gt;オープンハードカンファレンスは子育て時期でもカンファレンス参加の両立ができるように毎回のようにキッズ・乳児連れ対応をしています。&#xA;マット敷のキッズスペース。&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/mat.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;今回はキッズスペースはドアを閉めることができるので、おむつ替えスペースとしても!&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/forbaby/</guid>
+      <description>&lt;p&gt;オープンハードカンファレンスは子育て時期でもカンファレンス参加の両立ができるように毎回のようにキッズ・乳児連れ対応をしています。&#xA;マット敷のキッズスペース。&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/mat.jpeg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;今回はキッズスペースはドアを閉めることができるので、おむつ替えスペースとしても!&lt;/p&gt;</description>
     </item>
     <item>
       <title>IoTLT in OHSWC 2025 Akihabara</title>
-      <link>http://localhost:1313/posts/oshwc2025akihabaraiotlt/</link>
+      <link>https://oshwc.org/posts/oshwc2025akihabaraiotlt/</link>
       <pubDate>Tue, 02 Sep 2025 22:40:29 +0900</pubDate>
-      <guid>http://localhost:1313/posts/oshwc2025akihabaraiotlt/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/oshwc2025akihabara&#34;&gt;オープンハードカンファレンス2025 akihabara&lt;/a&gt; でのセミナーの後半は、&lt;/p&gt;&#xA;&lt;p&gt;「IoT縛りの勉強会! IoTLT @JLCPCB オープンハードカンファレンス」&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://iotlt.connpass.com/event/366604/&#34;&gt;https://iotlt.connpass.com/event/366604/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;を行います。&lt;/p&gt;&#xA;&lt;p&gt;5分程度のライトニングトークをしてみませんか? 登壇申込みは上記のリンクから!&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/oshwc2025akihabaraiotlt/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://oshwc.org/posts/oshwc2025akihabara&#34;&gt;オープンハードカンファレンス2025 akihabara&lt;/a&gt; でのセミナーの後半は、&lt;/p&gt;&#xA;&lt;p&gt;「IoT縛りの勉強会! IoTLT @JLCPCB オープンハードカンファレンス」&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://iotlt.connpass.com/event/366604/&#34;&gt;https://iotlt.connpass.com/event/366604/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;を行います。&lt;/p&gt;&#xA;&lt;p&gt;5分程度のライトニングトークをしてみませんか? 登壇申込みは上記のリンクから!&lt;/p&gt;</description>
     </item>
     <item>
       <title>OSHWC2025SaitamaPartyReport</title>
-      <link>http://localhost:1313/posts/oshwc2025saitamareport-party/</link>
+      <link>https://oshwc.org/posts/oshwc2025saitamareport-party/</link>
       <pubDate>Mon, 01 Sep 2025 14:12:31 +0900</pubDate>
-      <guid>http://localhost:1313/posts/oshwc2025saitamareport-party/</guid>
-      <description>&lt;h1 id=&#34;懇親会でトルティーヤとケーキパーティ&#34;&gt;懇親会でトルティーヤとケーキパーティ&lt;/h1&gt;&#xA;&lt;p&gt;2025年6月に開催した OSHWC2025Saitama の懇親会。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;立食反省立ち話&lt;/li&gt;&#xA;&lt;li&gt;アンカンファレンス形式の登壇&lt;/li&gt;&#xA;&lt;li&gt;トルティーヤパーティ&lt;/li&gt;&#xA;&lt;li&gt;カフェバー&lt;/li&gt;&#xA;&lt;li&gt;セルフケーキ&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;もともとオープンハードカンファレンスは高断熱高機動ピザ窯 DE-Live を使い無限ピザパーティを行っていました。&#xA;その後能登半島災害支援への投入からのフィードバックを得て、最近はピザ生地の代わりにトルティーヤ記事を使ってピザのように調理するやりかたに進化。&lt;/p&gt;&#xA;&lt;p&gt;この回の OSHWC2025Saitama においてもそのようにしようと思ったのですが、イベント当日に会場で「調理NG」ということが判明しました。&#xA;急遽生トルティーヤを使った方法に変更！&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/oshwc2025saitama/IMG_20250525_175328.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>https://oshwc.org/posts/oshwc2025saitamareport-party/</guid>
+      <description>&lt;h1 id=&#34;懇親会でトルティーヤとケーキパーティ&#34;&gt;懇親会でトルティーヤとケーキパーティ&lt;/h1&gt;&#xA;&lt;p&gt;2025年6月に開催した OSHWC2025Saitama の懇親会。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;立食反省立ち話&lt;/li&gt;&#xA;&lt;li&gt;アンカンファレンス形式の登壇&lt;/li&gt;&#xA;&lt;li&gt;トルティーヤパーティ&lt;/li&gt;&#xA;&lt;li&gt;カフェバー&lt;/li&gt;&#xA;&lt;li&gt;セルフケーキ&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;もともとオープンハードカンファレンスは高断熱高機動ピザ窯 DE-Live を使い無限ピザパーティを行っていました。&#xA;その後能登半島災害支援への投入からのフィードバックを得て、最近はピザ生地の代わりにトルティーヤ記事を使ってピザのように調理するやりかたに進化。&lt;/p&gt;&#xA;&lt;p&gt;この回の OSHWC2025Saitama においてもそのようにしようと思ったのですが、イベント当日に会場で「調理NG」ということが判明しました。&#xA;急遽生トルティーヤを使った方法に変更！&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/oshwc2025saitama/IMG_20250525_175328.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Go2JLCPCBoffice</title>
-      <link>http://localhost:1313/posts/go2jlcpcboffice/</link>
+      <link>https://oshwc.org/posts/go2jlcpcboffice/</link>
       <pubDate>Thu, 28 Aug 2025 14:12:31 +0900</pubDate>
-      <guid>http://localhost:1313/posts/go2jlcpcboffice/</guid>
-      <description>&lt;h1 id=&#34;秋葉原の-jlcpcb-オフィス&#34;&gt;秋葉原の JLCPCB オフィス&lt;/h1&gt;&#xA;&lt;p&gt;東京都千代田区岩本町三丁目2番1号ビリーフ岩本町201号室&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;JR秋葉原駅昭和通り改札から徒歩10分&lt;/li&gt;&#xA;&lt;li&gt;都営日比谷線秋葉原駅4番出口より徒歩5分&lt;/li&gt;&#xA;&lt;li&gt;都営新宿線岩本町A5出口より徒歩1分&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Google Maps: &lt;a href=&#34;https://maps.app.goo.gl/yDkWdsyishC39DBm6&#34;&gt;https://maps.app.goo.gl/yDkWdsyishC39DBm6&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;ビル南側の路地に入口があります。&lt;/p&gt;&#xA;&lt;h2 id=&#34;道順です&#34;&gt;道順です&lt;/h2&gt;&#xA;&lt;p&gt;地下鉄新宿線岩本町駅A5出口に向かいます。その他の交通機関を使った場合はA5出口を目指してください。&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/go2JLCPCBoffice/IMG_20250825_135532.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;A5出口から南に向かいます。&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/go2JLCPCBoffice/IMG_20250825_135546.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;1つ目の路地がありますがそのまま通り過ぎます。&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/go2jlcpcboffice/</guid>
+      <description>&lt;h1 id=&#34;秋葉原の-jlcpcb-オフィス&#34;&gt;秋葉原の JLCPCB オフィス&lt;/h1&gt;&#xA;&lt;p&gt;東京都千代田区岩本町三丁目2番1号ビリーフ岩本町201号室&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;JR秋葉原駅昭和通り改札から徒歩10分&lt;/li&gt;&#xA;&lt;li&gt;都営日比谷線秋葉原駅4番出口より徒歩5分&lt;/li&gt;&#xA;&lt;li&gt;都営新宿線岩本町A5出口より徒歩1分&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Google Maps: &lt;a href=&#34;https://maps.app.goo.gl/yDkWdsyishC39DBm6&#34;&gt;https://maps.app.goo.gl/yDkWdsyishC39DBm6&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;ビル南側の路地に入口があります。&lt;/p&gt;&#xA;&lt;h2 id=&#34;道順です&#34;&gt;道順です&lt;/h2&gt;&#xA;&lt;p&gt;地下鉄新宿線岩本町駅A5出口に向かいます。その他の交通機関を使った場合はA5出口を目指してください。&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/go2JLCPCBoffice/IMG_20250825_135532.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;A5出口から南に向かいます。&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/go2JLCPCBoffice/IMG_20250825_135546.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;1つ目の路地がありますがそのまま通り過ぎます。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Oshwc2025akihabaraparty</title>
-      <link>http://localhost:1313/posts/oshwc2025akihabaraparty/</link>
+      <link>https://oshwc.org/posts/oshwc2025akihabaraparty/</link>
       <pubDate>Tue, 26 Aug 2025 23:24:13 +0900</pubDate>
-      <guid>http://localhost:1313/posts/oshwc2025akihabaraparty/</guid>
+      <guid>https://oshwc.org/posts/oshwc2025akihabaraparty/</guid>
       <description>&lt;h2 id=&#34;party&#34;&gt;Party&lt;/h2&gt;&#xA;&lt;p&gt;懇親会を、開催します。&#xA;オープンハードカンファレンス本会の同じ会場で、懇親会を開催します。&lt;/p&gt;&#xA;&lt;p&gt;日時&#xA;2025/9/21 17:00-19:00&lt;/p&gt;&#xA;&lt;p&gt;会費 ￥2000 なお、未成年は無料です&lt;/p&gt;&#xA;&lt;p&gt;受付  当日、会場で受付します&lt;/p&gt;&#xA;&lt;p&gt;内容 トルティーヤピザパーティ、ケーキパーティ、カフェ&lt;/p&gt;&#xA;&lt;p&gt;秘密結社オープンフォースの災害支援炊き出しなどの技術を活用して、楽しく食べましょう!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Entry</title>
-      <link>http://localhost:1313/posts/oshwc2025akihabaraentry/</link>
+      <link>https://oshwc.org/posts/oshwc2025akihabaraentry/</link>
       <pubDate>Tue, 26 Aug 2025 22:40:29 +0900</pubDate>
-      <guid>http://localhost:1313/posts/oshwc2025akihabaraentry/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/oshwc2025akihabara&#34;&gt;オープンハードカンファレンス2025 akihabara&lt;/a&gt; の出展・登壇申込み&lt;/p&gt;&#xA;&lt;h2 id=&#34;参加条件&#34;&gt;参加条件&lt;/h2&gt;&#xA;&lt;p&gt;電子工作や、OSHW規約を守らないとダメということはありません。&#xA;モノ系に限らず、OSS系、サービス系、教育系など、熱いスピリットがあれば制限はありません！&lt;/p&gt;&#xA;&lt;h2 id=&#34;出展について&#34;&gt;出展について&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;11:00-16:00&lt;/li&gt;&#xA;&lt;li&gt;机サイズ 90cm(半卓) または 180cm(1卓)&lt;/li&gt;&#xA;&lt;li&gt;来場参加費：無料&lt;/li&gt;&#xA;&lt;li&gt;出展費用：￥2000(半卓) または ￥4000(1卓)&lt;/li&gt;&#xA;&lt;li&gt;支払い：現地受付で支払い&lt;/li&gt;&#xA;&lt;li&gt;販売OK&lt;/li&gt;&#xA;&lt;li&gt;電源有&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;今までオープンハードカンファレンスにて申し込みいただいていたジャンルの一例&#34;&gt;今までオープンハードカンファレンスにて申し込みいただいていたジャンルの一例：&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;プログラミング体験&lt;/li&gt;&#xA;&lt;li&gt;同人誌販売&lt;/li&gt;&#xA;&lt;li&gt;オープンソースの気象教材かるたの展示&lt;/li&gt;&#xA;&lt;li&gt;ミシンで手芸HACK!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;オープンハードウェアのライセンスのシールを当日お配りします。展示するアイテムがどのライセンスにあたるかを表示するために、ブースやアイテムへの貼り付けにご協力ください。&lt;/p&gt;&#xA;&lt;h3 id=&#34;出展申込み&#34;&gt;出展申込み&lt;/h3&gt;&#xA;&lt;p&gt;こちらのページから&#xA;&lt;a href=&#34;https://forms.gle/HqGa7uyhJGbfE5qe6&#34;&gt;https://forms.gle/HqGa7uyhJGbfE5qe6&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;締め切り：2025/09/14 23:59&lt;/p&gt;&#xA;&lt;h2 id=&#34;登壇について&#34;&gt;登壇について&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;30分セミナー枠 x 4&lt;/li&gt;&#xA;&lt;li&gt;来場参加費：無料&lt;/li&gt;&#xA;&lt;li&gt;登壇費用：無料 (個人、コミュニティ、企業問わず)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;過去のオープンハードカンファレンスで登壇いただいたジャンルの一例&#34;&gt;過去のオープンハードカンファレンスで登壇いただいたジャンルの一例：&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;レーザカッターで海苔を切ろう！&lt;/li&gt;&#xA;&lt;li&gt;OSS サービス/言語（Not ハードウェア）&lt;/li&gt;&#xA;&lt;li&gt;オープンハードウェアライセンス解説&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;登壇申し込み&#34;&gt;登壇申し込み&lt;/h3&gt;&#xA;&lt;p&gt;こちらのページから&#xA;&lt;a href=&#34;https://forms.gle/LJjQdGijkTtShGTd6&#34;&gt;https://forms.gle/LJjQdGijkTtShGTd6&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/oshwc2025akihabaraentry/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://oshwc.org/posts/oshwc2025akihabara&#34;&gt;オープンハードカンファレンス2025 akihabara&lt;/a&gt; の出展・登壇申込み&lt;/p&gt;&#xA;&lt;h2 id=&#34;参加条件&#34;&gt;参加条件&lt;/h2&gt;&#xA;&lt;p&gt;電子工作や、OSHW規約を守らないとダメということはありません。&#xA;モノ系に限らず、OSS系、サービス系、教育系など、熱いスピリットがあれば制限はありません！&lt;/p&gt;&#xA;&lt;h2 id=&#34;出展について&#34;&gt;出展について&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;11:00-16:00&lt;/li&gt;&#xA;&lt;li&gt;机サイズ 90cm(半卓) または 180cm(1卓)&lt;/li&gt;&#xA;&lt;li&gt;来場参加費：無料&lt;/li&gt;&#xA;&lt;li&gt;出展費用：￥2000(半卓) または ￥4000(1卓)&lt;/li&gt;&#xA;&lt;li&gt;支払い：現地受付で支払い&lt;/li&gt;&#xA;&lt;li&gt;販売OK&lt;/li&gt;&#xA;&lt;li&gt;電源有&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;今までオープンハードカンファレンスにて申し込みいただいていたジャンルの一例&#34;&gt;今までオープンハードカンファレンスにて申し込みいただいていたジャンルの一例：&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;プログラミング体験&lt;/li&gt;&#xA;&lt;li&gt;同人誌販売&lt;/li&gt;&#xA;&lt;li&gt;オープンソースの気象教材かるたの展示&lt;/li&gt;&#xA;&lt;li&gt;ミシンで手芸HACK!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;オープンハードウェアのライセンスのシールを当日お配りします。展示するアイテムがどのライセンスにあたるかを表示するために、ブースやアイテムへの貼り付けにご協力ください。&lt;/p&gt;&#xA;&lt;h3 id=&#34;出展申込み&#34;&gt;出展申込み&lt;/h3&gt;&#xA;&lt;p&gt;こちらのページから&#xA;&lt;a href=&#34;https://forms.gle/HqGa7uyhJGbfE5qe6&#34;&gt;https://forms.gle/HqGa7uyhJGbfE5qe6&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;締め切り：2025/09/14 23:59&lt;/p&gt;&#xA;&lt;h2 id=&#34;登壇について&#34;&gt;登壇について&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;30分セミナー枠 x 4&lt;/li&gt;&#xA;&lt;li&gt;来場参加費：無料&lt;/li&gt;&#xA;&lt;li&gt;登壇費用：無料 (個人、コミュニティ、企業問わず)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;過去のオープンハードカンファレンスで登壇いただいたジャンルの一例&#34;&gt;過去のオープンハードカンファレンスで登壇いただいたジャンルの一例：&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;レーザカッターで海苔を切ろう！&lt;/li&gt;&#xA;&lt;li&gt;OSS サービス/言語（Not ハードウェア）&lt;/li&gt;&#xA;&lt;li&gt;オープンハードウェアライセンス解説&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;登壇申し込み&#34;&gt;登壇申し込み&lt;/h3&gt;&#xA;&lt;p&gt;こちらのページから&#xA;&lt;a href=&#34;https://forms.gle/LJjQdGijkTtShGTd6&#34;&gt;https://forms.gle/LJjQdGijkTtShGTd6&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Oshwc2025akihabarastart</title>
-      <link>http://localhost:1313/posts/oshwc2025akihabarastart/</link>
+      <link>https://oshwc.org/posts/oshwc2025akihabarastart/</link>
       <pubDate>Sat, 23 Aug 2025 10:13:20 +0900</pubDate>
-      <guid>http://localhost:1313/posts/oshwc2025akihabarastart/</guid>
+      <guid>https://oshwc.org/posts/oshwc2025akihabarastart/</guid>
       <description>&lt;p&gt;調整に時間がかかっていましたが、ついに日程、開催場所確定!&#xA;オープンハードカンファレンス  秋葉原 2025&#xA;2025/09/21  (日)  11:00-16:00&#xA;会場：JLCPCB&#xA;岩本町駅A5出口より1分&#xA;東京都千代田区岩本町三丁目2番1号ビリーフ岩本町201&#xA;内容&#xA;セミナー、展示、ファミリー体験コーナー、キッズスペース&#xA;費用&#xA;参加無料&#xA;懇親会&#xA;同日・同場所 17:00-20:00&#xA;立食パーティー、アンカンファレンス、かるた大会、デザートハック&#xA;参加費：￥2000(学生以下無料)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/oshwc2025akihabarastart.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;画像には、展示・登壇無料と書いていますが・・・調整中です&lt;/p&gt;</description>
     </item>
     <item>
       <title>Oshwc2025saitama4exhivitors</title>
-      <link>http://localhost:1313/posts/oshwc2025saitama4exhivitors/</link>
+      <link>https://oshwc.org/posts/oshwc2025saitama4exhivitors/</link>
       <pubDate>Fri, 23 May 2025 23:32:28 +0900</pubDate>
-      <guid>http://localhost:1313/posts/oshwc2025saitama4exhivitors/</guid>
-      <description>&lt;h2 id=&#34;for-exhivitors-登壇者出展者体験コーナー運営の皆様へ&#34;&gt;for exhivitors 登壇者、出展者、体験コーナー運営の皆様へ&lt;/h2&gt;&#xA;&lt;h3 id=&#34;会場について&#34;&gt;会場について&lt;/h3&gt;&#xA;&lt;h4 id=&#34;場所&#34;&gt;場所&lt;/h4&gt;&#xA;&lt;p&gt;入間市 産業文化センターB棟研修室&lt;/p&gt;&#xA;&lt;p&gt;埼玉県入間市向陽台1-1-7&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.iruma-bunka.jp/access/&#34;&gt;https://www.iruma-bunka.jp/access/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;入間市駅（南口）より徒歩で約17分です。&lt;/p&gt;&#xA;&lt;h4 id=&#34;レイアウト&#34;&gt;レイアウト&lt;/h4&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/OSHWC2025Saitama%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;pdf はこちら &lt;a href=&#34;https://oshwc.org/file/OSHWC2025Saitamalayout.pdf&#34;&gt;https://oshwc.org/file/OSHWC2025Saitamalayout.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;会場オープン&#34;&gt;会場オープン&lt;/h4&gt;&#xA;&lt;p&gt;10時過ぎに主催者が会場オープンします。&lt;/p&gt;&#xA;&lt;p&gt;主催者の入場が、交通の都合で10時過ぎになる見込みです。それまでに到着された方は会場前でお待ちください。&lt;/p&gt;&#xA;&lt;p&gt;会場オープンしてから机などの配置を有志で行います。われこそはという方、ぜひともお力をお貸し下さい。&lt;/p&gt;&#xA;&lt;h3 id=&#34;受付&#34;&gt;受付&lt;/h3&gt;&#xA;&lt;p&gt;入場時に受付をお願いします。展示ブース名を記したバナーをお渡しします。机に貼って展示を行って下さい。&lt;/p&gt;&#xA;&lt;h3 id=&#34;開催時間&#34;&gt;開催時間&lt;/h3&gt;&#xA;&lt;p&gt;11:00-16:00 となります。&#xA;オープニングを11:00に行います。また、クロージングを16:00 に行います。なるべくご参加下さい。&lt;/p&gt;&#xA;&lt;h3 id=&#34;撤収&#34;&gt;撤収&lt;/h3&gt;&#xA;&lt;p&gt;16:00 から撤収を行って下さい。17:00 から同じ場所で懇親会を行いますので、退出を急がずにそのまま部屋にとどまっていただいてOKです。&lt;/p&gt;&#xA;&lt;h3 id=&#34;セミナー&#34;&gt;セミナー&lt;/h3&gt;&#xA;&lt;p&gt;会場奥がセミナーコーナーになっています。プロジェクターを用意しています。&lt;/p&gt;&#xA;&lt;p&gt;機種：EPSON EB-X24&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ディスプレイ解像度 1024×768&lt;/li&gt;&#xA;&lt;li&gt;HDMI ケーブルを用意していますので、それを使って接続してください。&lt;/li&gt;&#xA;&lt;li&gt;PCは持ち込みください。事前に接続テストをお願いします。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;スクリーンサイズ：  203.2x152  cm&lt;/p&gt;&#xA;&lt;p&gt;タイムキープなどは行いませんので、時間が来たら開始、時間を見計らって終了してください。&lt;/p&gt;&#xA;&lt;h3 id=&#34;展示&#34;&gt;展示&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;机サイズ： 180x45cm&lt;/li&gt;&#xA;&lt;li&gt;イス：2脚&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;出展名を記したバナーを配布します。机に貼ってお使いください。&lt;/p&gt;&#xA;&lt;h3 id=&#34;体験コーナー&#34;&gt;体験コーナー&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;机サイズ： 180x45cm&lt;/li&gt;&#xA;&lt;li&gt;イス：4脚&lt;/li&gt;&#xA;&lt;li&gt;POPスタンド：1セット&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;体験コーナー名を記したバナーを配布します。POPスタンドにセットしてお使いください。&lt;/p&gt;&#xA;&lt;h3 id=&#34;食事&#34;&gt;食事&lt;/h3&gt;&#xA;&lt;p&gt;徒歩圏内に何件か、ランチ食べれるお店があります。&lt;/p&gt;&#xA;&lt;p&gt;また、会場内での飲食はOKです。&lt;/p&gt;&#xA;&lt;p&gt;歩いて3分程度のところにコンビニがあります。&lt;/p&gt;&#xA;&lt;p&gt;また、同時開催の、「電波文化祭」イベントにパン屋さんが来ます。&lt;/p&gt;&#xA;&lt;p&gt;なお、ゴミはお持ち帰り下さい。&lt;/p&gt;&#xA;&lt;h3 id=&#34;持ち物&#34;&gt;持ち物&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;展示物、配布物のほか、ごみは持ち帰りをこころがけ、ごみ袋などをご用意下さい。&lt;/li&gt;&#xA;&lt;li&gt;なるべく電源コードをお持ち下さい。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;懇親会&#34;&gt;懇親会&lt;/h3&gt;&#xA;&lt;p&gt;17時から懇親会を行います。&#xA;セルフトルティーヤピザ、セルフケーキ、カフェでお楽しみ下さい。&lt;/p&gt;&#xA;&lt;p&gt;会費は社会人￥2000、学生、学童などは無料です。&lt;/p&gt;&#xA;&lt;p&gt;懇親会の申込みは受付で行います。名札をお渡しします。懇親会チケットとしてお使いください&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/oshwc2025saitama4exhivitors/</guid>
+      <description>&lt;h2 id=&#34;for-exhivitors-登壇者出展者体験コーナー運営の皆様へ&#34;&gt;for exhivitors 登壇者、出展者、体験コーナー運営の皆様へ&lt;/h2&gt;&#xA;&lt;h3 id=&#34;会場について&#34;&gt;会場について&lt;/h3&gt;&#xA;&lt;h4 id=&#34;場所&#34;&gt;場所&lt;/h4&gt;&#xA;&lt;p&gt;入間市 産業文化センターB棟研修室&lt;/p&gt;&#xA;&lt;p&gt;埼玉県入間市向陽台1-1-7&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.iruma-bunka.jp/access/&#34;&gt;https://www.iruma-bunka.jp/access/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;入間市駅（南口）より徒歩で約17分です。&lt;/p&gt;&#xA;&lt;h4 id=&#34;レイアウト&#34;&gt;レイアウト&lt;/h4&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/OSHWC2025Saitama%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;pdf はこちら &lt;a href=&#34;https://oshwc.org/file/OSHWC2025Saitamalayout.pdf&#34;&gt;https://oshwc.org/file/OSHWC2025Saitamalayout.pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;会場オープン&#34;&gt;会場オープン&lt;/h4&gt;&#xA;&lt;p&gt;10時過ぎに主催者が会場オープンします。&lt;/p&gt;&#xA;&lt;p&gt;主催者の入場が、交通の都合で10時過ぎになる見込みです。それまでに到着された方は会場前でお待ちください。&lt;/p&gt;&#xA;&lt;p&gt;会場オープンしてから机などの配置を有志で行います。われこそはという方、ぜひともお力をお貸し下さい。&lt;/p&gt;&#xA;&lt;h3 id=&#34;受付&#34;&gt;受付&lt;/h3&gt;&#xA;&lt;p&gt;入場時に受付をお願いします。展示ブース名を記したバナーをお渡しします。机に貼って展示を行って下さい。&lt;/p&gt;&#xA;&lt;h3 id=&#34;開催時間&#34;&gt;開催時間&lt;/h3&gt;&#xA;&lt;p&gt;11:00-16:00 となります。&#xA;オープニングを11:00に行います。また、クロージングを16:00 に行います。なるべくご参加下さい。&lt;/p&gt;&#xA;&lt;h3 id=&#34;撤収&#34;&gt;撤収&lt;/h3&gt;&#xA;&lt;p&gt;16:00 から撤収を行って下さい。17:00 から同じ場所で懇親会を行いますので、退出を急がずにそのまま部屋にとどまっていただいてOKです。&lt;/p&gt;&#xA;&lt;h3 id=&#34;セミナー&#34;&gt;セミナー&lt;/h3&gt;&#xA;&lt;p&gt;会場奥がセミナーコーナーになっています。プロジェクターを用意しています。&lt;/p&gt;&#xA;&lt;p&gt;機種：EPSON EB-X24&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ディスプレイ解像度 1024×768&lt;/li&gt;&#xA;&lt;li&gt;HDMI ケーブルを用意していますので、それを使って接続してください。&lt;/li&gt;&#xA;&lt;li&gt;PCは持ち込みください。事前に接続テストをお願いします。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;スクリーンサイズ：  203.2x152  cm&lt;/p&gt;&#xA;&lt;p&gt;タイムキープなどは行いませんので、時間が来たら開始、時間を見計らって終了してください。&lt;/p&gt;&#xA;&lt;h3 id=&#34;展示&#34;&gt;展示&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;机サイズ： 180x45cm&lt;/li&gt;&#xA;&lt;li&gt;イス：2脚&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;出展名を記したバナーを配布します。机に貼ってお使いください。&lt;/p&gt;&#xA;&lt;h3 id=&#34;体験コーナー&#34;&gt;体験コーナー&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;机サイズ： 180x45cm&lt;/li&gt;&#xA;&lt;li&gt;イス：4脚&lt;/li&gt;&#xA;&lt;li&gt;POPスタンド：1セット&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;体験コーナー名を記したバナーを配布します。POPスタンドにセットしてお使いください。&lt;/p&gt;&#xA;&lt;h3 id=&#34;食事&#34;&gt;食事&lt;/h3&gt;&#xA;&lt;p&gt;徒歩圏内に何件か、ランチ食べれるお店があります。&lt;/p&gt;&#xA;&lt;p&gt;また、会場内での飲食はOKです。&lt;/p&gt;&#xA;&lt;p&gt;歩いて3分程度のところにコンビニがあります。&lt;/p&gt;&#xA;&lt;p&gt;また、同時開催の、「電波文化祭」イベントにパン屋さんが来ます。&lt;/p&gt;&#xA;&lt;p&gt;なお、ゴミはお持ち帰り下さい。&lt;/p&gt;&#xA;&lt;h3 id=&#34;持ち物&#34;&gt;持ち物&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;展示物、配布物のほか、ごみは持ち帰りをこころがけ、ごみ袋などをご用意下さい。&lt;/li&gt;&#xA;&lt;li&gt;なるべく電源コードをお持ち下さい。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;懇親会&#34;&gt;懇親会&lt;/h3&gt;&#xA;&lt;p&gt;17時から懇親会を行います。&#xA;セルフトルティーヤピザ、セルフケーキ、カフェでお楽しみ下さい。&lt;/p&gt;&#xA;&lt;p&gt;会費は社会人￥2000、学生、学童などは無料です。&lt;/p&gt;&#xA;&lt;p&gt;懇親会の申込みは受付で行います。名札をお渡しします。懇親会チケットとしてお使いください&lt;/p&gt;</description>
     </item>
     <item>
       <title>Oshwc2025saitamaparty</title>
-      <link>http://localhost:1313/posts/oshwc2025saitamaparty/</link>
+      <link>https://oshwc.org/posts/oshwc2025saitamaparty/</link>
       <pubDate>Wed, 21 May 2025 12:24:13 +0900</pubDate>
-      <guid>http://localhost:1313/posts/oshwc2025saitamaparty/</guid>
+      <guid>https://oshwc.org/posts/oshwc2025saitamaparty/</guid>
       <description>&lt;h2 id=&#34;party&#34;&gt;Party&lt;/h2&gt;&#xA;&lt;p&gt;懇親会を、開催します。&#xA;オープンハードカンファレンス本会の同じ会場で、懇親会を開催します。&lt;/p&gt;&#xA;&lt;p&gt;日時&#xA;2025/5/25 17:00-19:00&lt;/p&gt;&#xA;&lt;p&gt;会費 ￥1500 なお、未成年は無料です&lt;/p&gt;&#xA;&lt;p&gt;内容 トルティーヤピザパーティ、ケーキパーティ、カフェ&lt;/p&gt;&#xA;&lt;p&gt;秘密結社オープンフォースの災害支援炊き出しなどの技術を活用して、楽しく食べましょう!&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025050902 OSHWC2025saitamaproposal</title>
-      <link>http://localhost:1313/posts/20250509-2oshwc2025saitamaproposal/</link>
+      <link>https://oshwc.org/posts/20250509-2oshwc2025saitamaproposal/</link>
       <pubDate>Fri, 09 May 2025 20:05:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/20250509-2oshwc2025saitamaproposal/</guid>
+      <guid>https://oshwc.org/posts/20250509-2oshwc2025saitamaproposal/</guid>
       <description>&lt;p&gt;オープンハードカンファレンスの説明資料&lt;/p&gt;&#xA;&lt;p&gt;OSHWC2025Saitama 開催にあたってオープンハードカンファレンスを説明する資料を作ってみました。&lt;/p&gt;&#xA;&lt;p&gt;pdf はこちら &lt;a href=&#34;https://oshwc.org/file/OSHWCproposal20250423.pdf&#34;&gt;https://oshwc.org/file/OSHWCproposal20250423.pdf&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Oshwc2025saitamaposter</title>
-      <link>http://localhost:1313/posts/oshwc2025saitamaposter/</link>
+      <link>https://oshwc.org/posts/oshwc2025saitamaposter/</link>
       <pubDate>Fri, 09 May 2025 19:55:26 +0900</pubDate>
-      <guid>http://localhost:1313/posts/oshwc2025saitamaposter/</guid>
-      <description>&lt;h2 id=&#34;oshwc2025saitama-ポスターチラシ&#34;&gt;OSHWC2025Saitama ポスター・チラシ&lt;/h2&gt;&#xA;&lt;p&gt;大きく印刷してポスター、A4で印刷してチラシとできるリーフレットを作ってみました。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/OSHWC2025SaitamaPoster.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;pdf はこちら &lt;a href=&#34;https://oshwc.org/file/OSHWC2025Saitama6.pdf&#34;&gt;https://oshwc.org/file/OSHWC2025Saitama6.pdf&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/oshwc2025saitamaposter/</guid>
+      <description>&lt;h2 id=&#34;oshwc2025saitama-ポスターチラシ&#34;&gt;OSHWC2025Saitama ポスター・チラシ&lt;/h2&gt;&#xA;&lt;p&gt;大きく印刷してポスター、A4で印刷してチラシとできるリーフレットを作ってみました。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/OSHWC2025SaitamaPoster.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;pdf はこちら &lt;a href=&#34;https://oshwc.org/file/OSHWC2025Saitama6.pdf&#34;&gt;https://oshwc.org/file/OSHWC2025Saitama6.pdf&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Oldsite</title>
-      <link>http://localhost:1313/posts/oldsite/</link>
+      <link>https://oshwc.org/posts/oldsite/</link>
       <pubDate>Fri, 18 Apr 2025 22:25:58 +0900</pubDate>
-      <guid>http://localhost:1313/posts/oldsite/</guid>
+      <guid>https://oshwc.org/posts/oldsite/</guid>
       <description>&lt;h2 id=&#34;いままでのオープンハードカンファレンス&#34;&gt;いままでのオープンハードカンファレンス&lt;/h2&gt;&#xA;&lt;p&gt;第一回のオープンハードカンファレンスは2013年に開催しました。&lt;/p&gt;&#xA;&lt;p&gt;それから2020年にかけて24回開催していましたが、コロナ禍によるイベント自粛を受けて休止期間に移行しました。&lt;/p&gt;&#xA;&lt;p&gt;2025年に改めてリブートを行うことを機に、イベントサイトも新しい構成とし、このサイトを構築しました。&lt;/p&gt;&#xA;&lt;h2 id=&#34;過去のイベントサイト&#34;&gt;過去のイベントサイト&lt;/h2&gt;&#xA;&lt;p&gt;コロナ禍以前のイベントについては、こちらの旧サイトを参照してください。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://oshwc.project2108.com/&#34;&gt;http://oshwc.project2108.com/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>oshwc2025saitama</title>
-      <link>http://localhost:1313/posts/oshwc2025saitama/</link>
+      <link>https://oshwc.org/posts/oshwc2025saitama/</link>
       <pubDate>Fri, 18 Apr 2025 22:24:04 +0900</pubDate>
-      <guid>http://localhost:1313/posts/oshwc2025saitama/</guid>
-      <description>&lt;p&gt;(展示、登壇者向けの情報はこちら→ &lt;a href=&#34;https://oshwc.org/posts/entry&#34;&gt;https://oshwc.org/posts/entry&lt;/a&gt; )&lt;/p&gt;&#xA;&lt;h2 id=&#34;オープンハードカンファレンス-2025-saitama&#34;&gt;オープンハードカンファレンス 2025 Saitama&lt;/h2&gt;&#xA;&lt;p&gt;埼玉県入間市で開催予定のオープンハードカンファレンス。 2025年5月25日開催！&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/OSHWC2025SaitamaPoster.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>https://oshwc.org/posts/oshwc2025saitama/</guid>
+      <description>&lt;p&gt;(展示、登壇者向けの情報はこちら→ &lt;a href=&#34;https://oshwc.org/posts/entry&#34;&gt;https://oshwc.org/posts/entry&lt;/a&gt; )&lt;/p&gt;&#xA;&lt;h2 id=&#34;オープンハードカンファレンス-2025-saitama&#34;&gt;オープンハードカンファレンス 2025 Saitama&lt;/h2&gt;&#xA;&lt;p&gt;埼玉県入間市で開催予定のオープンハードカンファレンス。 2025年5月25日開催！&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/OSHWC2025SaitamaPoster.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Entry</title>
-      <link>http://localhost:1313/posts/oshwc2025saitamaentry/</link>
+      <link>https://oshwc.org/posts/oshwc2025saitamaentry/</link>
       <pubDate>Fri, 18 Apr 2025 22:22:29 +0900</pubDate>
-      <guid>http://localhost:1313/posts/oshwc2025saitamaentry/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/oshwc2025saitama&#34;&gt;オープンハードカンファレンス2025 Saitama&lt;/a&gt; の出展・登壇申込み&lt;/p&gt;&#xA;&lt;h2 id=&#34;参加条件&#34;&gt;参加条件&lt;/h2&gt;&#xA;&lt;p&gt;電子工作や、OSHW規約を守らないとダメということはありません。&#xA;モノ系に限らず、OSS系、サービス系、教育系など、熱いスピリットがあれば制限はありません！&lt;/p&gt;&#xA;&lt;h2 id=&#34;出展について&#34;&gt;出展について&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;11:00-16:00&lt;/li&gt;&#xA;&lt;li&gt;机サイズ 150cm 〜 180cm&lt;/li&gt;&#xA;&lt;li&gt;来場参加費：無料&lt;/li&gt;&#xA;&lt;li&gt;出展費用：無料 (個人、コミュニティ、企業問わず)&lt;/li&gt;&#xA;&lt;li&gt;販売OK&lt;/li&gt;&#xA;&lt;li&gt;電源有&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;今までオープンハードカンファレンスにて申し込みいただいていたジャンルの一例&#34;&gt;今までオープンハードカンファレンスにて申し込みいただいていたジャンルの一例：&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;プログラミング体験&lt;/li&gt;&#xA;&lt;li&gt;同人誌販売&lt;/li&gt;&#xA;&lt;li&gt;オープンソースの気象教材かるたの展示&lt;/li&gt;&#xA;&lt;li&gt;ミシンで手芸HACK!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;オープンハードウェアのライセンスのシールを当日お配りします。展示するアイテムがどのライセンスにあたるかを表示するために、ブースやアイテムへの貼り付けにご協力ください。&lt;/p&gt;&#xA;&lt;h3 id=&#34;出展申込み&#34;&gt;出展申込み&lt;/h3&gt;&#xA;&lt;p&gt;こちらのページから&#xA;&lt;a href=&#34;https://forms.gle/LoyNo9Vf8Wm6PQqU9&#34;&gt;https://forms.gle/LoyNo9Vf8Wm6PQqU9&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;登壇について&#34;&gt;登壇について&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;30分セミナー枠 x 4&lt;/li&gt;&#xA;&lt;li&gt;来場参加費：無料&lt;/li&gt;&#xA;&lt;li&gt;登壇費用：無料 (個人、コミュニティ、企業問わず)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;過去のオープンハードカンファレンスで登壇いただいたジャンルの一例&#34;&gt;過去のオープンハードカンファレンスで登壇いただいたジャンルの一例：&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;レーザカッターで海苔を切ろう！&lt;/li&gt;&#xA;&lt;li&gt;OSS サービス/言語（Not ハードウェア）&lt;/li&gt;&#xA;&lt;li&gt;オープンハードウェアライセンス解説&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;登壇申し込み&#34;&gt;登壇申し込み&lt;/h3&gt;&#xA;&lt;p&gt;こちらのページから&#xA;&lt;a href=&#34;https://forms.gle/c4quthB2PXzo8DFs7&#34;&gt;https://forms.gle/c4quthB2PXzo8DFs7&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/oshwc2025saitamaentry/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://oshwc.org/posts/oshwc2025saitama&#34;&gt;オープンハードカンファレンス2025 Saitama&lt;/a&gt; の出展・登壇申込み&lt;/p&gt;&#xA;&lt;h2 id=&#34;参加条件&#34;&gt;参加条件&lt;/h2&gt;&#xA;&lt;p&gt;電子工作や、OSHW規約を守らないとダメということはありません。&#xA;モノ系に限らず、OSS系、サービス系、教育系など、熱いスピリットがあれば制限はありません！&lt;/p&gt;&#xA;&lt;h2 id=&#34;出展について&#34;&gt;出展について&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;11:00-16:00&lt;/li&gt;&#xA;&lt;li&gt;机サイズ 150cm 〜 180cm&lt;/li&gt;&#xA;&lt;li&gt;来場参加費：無料&lt;/li&gt;&#xA;&lt;li&gt;出展費用：無料 (個人、コミュニティ、企業問わず)&lt;/li&gt;&#xA;&lt;li&gt;販売OK&lt;/li&gt;&#xA;&lt;li&gt;電源有&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;今までオープンハードカンファレンスにて申し込みいただいていたジャンルの一例&#34;&gt;今までオープンハードカンファレンスにて申し込みいただいていたジャンルの一例：&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;プログラミング体験&lt;/li&gt;&#xA;&lt;li&gt;同人誌販売&lt;/li&gt;&#xA;&lt;li&gt;オープンソースの気象教材かるたの展示&lt;/li&gt;&#xA;&lt;li&gt;ミシンで手芸HACK!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;オープンハードウェアのライセンスのシールを当日お配りします。展示するアイテムがどのライセンスにあたるかを表示するために、ブースやアイテムへの貼り付けにご協力ください。&lt;/p&gt;&#xA;&lt;h3 id=&#34;出展申込み&#34;&gt;出展申込み&lt;/h3&gt;&#xA;&lt;p&gt;こちらのページから&#xA;&lt;a href=&#34;https://forms.gle/LoyNo9Vf8Wm6PQqU9&#34;&gt;https://forms.gle/LoyNo9Vf8Wm6PQqU9&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;登壇について&#34;&gt;登壇について&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;30分セミナー枠 x 4&lt;/li&gt;&#xA;&lt;li&gt;来場参加費：無料&lt;/li&gt;&#xA;&lt;li&gt;登壇費用：無料 (個人、コミュニティ、企業問わず)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;過去のオープンハードカンファレンスで登壇いただいたジャンルの一例&#34;&gt;過去のオープンハードカンファレンスで登壇いただいたジャンルの一例：&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;レーザカッターで海苔を切ろう！&lt;/li&gt;&#xA;&lt;li&gt;OSS サービス/言語（Not ハードウェア）&lt;/li&gt;&#xA;&lt;li&gt;オープンハードウェアライセンス解説&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;登壇申し込み&#34;&gt;登壇申し込み&lt;/h3&gt;&#xA;&lt;p&gt;こちらのページから&#xA;&lt;a href=&#34;https://forms.gle/c4quthB2PXzo8DFs7&#34;&gt;https://forms.gle/c4quthB2PXzo8DFs7&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>What is OSHWC?</title>
-      <link>http://localhost:1313/posts/whatisoshwc/</link>
+      <link>https://oshwc.org/posts/whatisoshwc/</link>
       <pubDate>Fri, 18 Apr 2025 22:22:09 +0900</pubDate>
-      <guid>http://localhost:1313/posts/whatisoshwc/</guid>
-      <description>&lt;p&gt;OSHWC:オープンハードカンファレンスとは&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/OSHWClogo20140105-400px.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;ハードウェアの文化祭！&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;登壇&lt;/li&gt;&#xA;&lt;li&gt;展示&lt;/li&gt;&#xA;&lt;li&gt;みせびらかし&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;近年電子工作やメイカーズがポピュラーとなっていて、メイカー系の展示会が全国で行われています。それとは何が違うの?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;知識共有を重視、セミナーを重視します。&lt;/li&gt;&#xA;&lt;li&gt;ものづくりだけではなく、ライフハックなども含みます。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;オープンソースハードウェアの「ハードウェア」はデバイスやガジェットのみではなく、&#xA;リアルワールドととらえています。リアルの世界を変革するのに必要な&#xA;ライフハック、クライシス、セキュリティなど幅広く考えています&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>1st-test-post</title>
-      <link>http://localhost:1313/posts/1st-test-post/</link>
-      <pubDate>Wed, 16 Apr 2025 23:57:37 +0900</pubDate>
-      <guid>http://localhost:1313/posts/1st-test-post/</guid>
-      <description>&lt;h2 id=&#34;1st-test-post&#34;&gt;1st-test-post&lt;/h2&gt;&#xA;&lt;p&gt;hello&lt;/p&gt;</description>
+      <guid>https://oshwc.org/posts/whatisoshwc/</guid>
+      <description>&lt;p&gt;OSHWC:オープンハードカンファレンスとは&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://oshwc.org/images/OSHWClogo20140105-400px.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;ハードウェアの文化祭！&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;登壇&lt;/li&gt;&#xA;&lt;li&gt;展示&lt;/li&gt;&#xA;&lt;li&gt;みせびらかし&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;近年電子工作やメイカーズがポピュラーとなっていて、メイカー系の展示会が全国で行われています。それとは何が違うの?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;知識共有を重視、セミナーを重視します。&lt;/li&gt;&#xA;&lt;li&gt;ものづくりだけではなく、ライフハックなども含みます。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;オープンソースハードウェアの「ハードウェア」はデバイスやガジェットのみではなく、&#xA;リアルワールドととらえています。リアルの世界を変革するのに必要な&#xA;ライフハック、クライシス、セキュリティなど幅広く考えています&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aboutus</title>
-      <link>http://localhost:1313/posts/aboutus/</link>
+      <link>https://oshwc.org/posts/aboutus/</link>
       <pubDate>Wed, 16 Apr 2025 23:57:37 +0900</pubDate>
-      <guid>http://localhost:1313/posts/aboutus/</guid>
+      <guid>https://oshwc.org/posts/aboutus/</guid>
       <description>&lt;h2 id=&#34;about-us&#34;&gt;About us&lt;/h2&gt;&#xA;&lt;p&gt;オープンハードカンファレンスは、秘密結社オープンフォースが企画運営を行っています。&lt;/p&gt;&#xA;&lt;h1 id=&#34;秘密結社オープンフォース&#34;&gt;秘密結社オープンフォース&lt;/h1&gt;&#xA;&lt;p&gt;「オープン技術で世界を変革する力を」&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;研究調査&lt;/li&gt;&#xA;&lt;li&gt;技術開発&lt;/li&gt;&#xA;&lt;li&gt;啓蒙活動&lt;/li&gt;&#xA;&lt;li&gt;勉強会&lt;/li&gt;&#xA;&lt;li&gt;社会問題解決&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;などを行っています。&lt;/p&gt;</description>
     </item>
   </channel>
