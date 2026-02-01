@@ -13,7 +13,7 @@ title = 'ScienceWorkshop'
 
 {{< figure src="/images/ScienceWorkshop/PXL_20250921_070734568.jpg">}}
 
-{{< figure src="/images/ScienceWorkshop/IMG_20251207_150120">}}
+{{< figure src="/images/ScienceWorkshop/IMG_20251207_150120.jpg">}}
 
 {{< figure src="/images/ScienceWorkshop/PXL_20250921_051902603.jpg">}}
 
