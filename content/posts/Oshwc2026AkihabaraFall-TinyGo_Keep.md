@@ -1,0 +1,12 @@
++++
+date = '2026-03-16T17:18:01+09:00'
+title = 'Oshwc2026AkihabaraFall-出展4'
++++
+  
+# TinyGo Keep  
+  
+TinyGoを利用したキーボードや基板、同人誌を展示します。  
+  
+{{< figure src="20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-TinyGo_Keep.jpg">}}  
+  
+TinyGo-Keebは、メカニカルキーボードの自作や改造を楽しむ仲間が集まるコミュニティです。 初心者から経験者まで、キーボード作りの楽しさを共有し、技術や知識を交換する場を提供しています。ワークショップで作成するキーボードや同人誌、基板を展示します。  
