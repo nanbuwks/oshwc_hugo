@@ -1,6 +1,5 @@
 +++
 date = '2026-03-16T15:31:36+09:00'
-draft = true
 title = 'Oshwc2026AkihabaraFall'
 +++
 
@@ -8,7 +7,7 @@ title = 'Oshwc2026AkihabaraFall'
 
 (展示、登壇してみたいと思った方はこちら→ https://oshwc.org/posts/Oshwc2026akihabarafallentry)
 
-## オープンハードカンファレンス 2026 Akihabara Fall
+## オープンハードカンファレンス 2026 Akihabara/Fall
 
 岩本町JLCPCBオフィスで開催予定のオープンハードカンファレンス。 2026年9月20日開催！
 
