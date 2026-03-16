@@ -7,7 +7,7 @@ title = 'Oshwc2026AkihabaraFall-出展1'
   
 5/24（日）開催「電波文化祭6」をご紹介します。  
 
-{{< figure src="20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-電波文化祭.png">}}  
+{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-電波文化祭.png">}}  
 
 "電波の文化祭と名付けたイベントですが「電波文化祭」は無線だけではなく、電子工作や同人誌など、様々な文化の重ね合わせを目指します。無線の上位にある「誰もが発信者となれること」「自らが創り出した価値を、他者と共有すること」そのためのイベントこそ、電波文化祭なのです。  
 一無線家の研究や成果を「他者へ発信できる」  

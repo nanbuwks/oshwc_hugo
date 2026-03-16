@@ -7,6 +7,6 @@ title = 'Oshwc2026AkihabaraFall-出展3'
   
 実用新案獲得!!非利き手でも使いこなせるキーボード  
   
-{{< figure src="20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-ビギナー電子工作.JPG">}}  
+{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-ビギナー電子工作.JPG">}}  
   
 医療従事者として、「今後の生活は非利き手しか使えなくなってしまった」状態の方を多くみてきました。そのような方々を少しでも支援出来ないかと思い、今回このような「非利き手専用完結型キーボード」を作成致しました。  

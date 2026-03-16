@@ -7,6 +7,6 @@ title = 'Oshwc2026AkihabaraFall-体験1'
   
 ミニチュアロボットのワークショップ  
   
-{{< figure src="20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-ものづくり電子工房_ロボあーと.jpg">}}  
+{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-ものづくり電子工房_ロボあーと.jpg">}}  
   
 3Dプリンターでつくった　オリジナルロボットのパーツ等を使い、ミニジオラマを制作できます。  
