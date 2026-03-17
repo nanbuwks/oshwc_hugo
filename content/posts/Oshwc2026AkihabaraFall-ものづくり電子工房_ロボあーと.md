@@ -1,6 +1,6 @@
 +++
 date = '2026-03-16T17:45:12+09:00'
-title = 'Oshwc2026AkihabaraFall-体験1'
+title = 'Oshwc2026AkihabaraFall-体験コーナー紹介(1)'
 +++
   
 # ミニチュアロボットのワークショップ  
