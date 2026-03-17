@@ -3,9 +3,9 @@ date = '2026-03-16T17:07:45+09:00'
 title = 'Oshwc2026AkihabaraFall-出展2'
 +++
   
-# UIAP  
+# 教育機関&クリエイタ向けArduino互換ボード  
   
-教育機関&クリエイタ向けArduino互換ボード  
+## UIAP  
   
 {{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-UIAP.png">}}  
   

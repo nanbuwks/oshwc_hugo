@@ -3,9 +3,9 @@ date = '2026-03-16T17:45:12+09:00'
 title = 'Oshwc2026AkihabaraFall-体験1'
 +++
   
-# ものづくり電子工房　ロボあーと  
+# ミニチュアロボットのワークショップ  
   
-ミニチュアロボットのワークショップ  
+## ものづくり電子工房　ロボあーと  
   
 {{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-ものづくり電子工房_ロボあーと.jpg">}}  
   

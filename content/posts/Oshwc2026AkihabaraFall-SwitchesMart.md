@@ -1,11 +1,11 @@
 +++
 date = '2026-03-16T17:29:27+09:00'
-title = 'Oshwc2026AkihabaraFall-展示6'
+title = 'Oshwc2026AkihabaraFall-展示コーナー紹介(6)'
 +++
   
-# SwitchesMart  
+# 自作キーボードおよび2.4GHz USBドングル  
   
-自作キーボードおよび2.4GHz USBドングル  
+## SwitchesMart  
   
 {{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-SwitchesMart.png">}}  
   

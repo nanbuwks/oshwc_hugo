@@ -1,11 +1,11 @@
 +++
 date = '2026-03-16T17:18:01+09:00'
-title = 'Oshwc2026AkihabaraFall-出展4'
+title = 'Oshwc2026AkihabaraFall-出展コーナー紹介(4)'
 +++
   
-# TinyGo Keep  
+# TinyGoを利用したキーボードや基板、同人誌を展示します。  
   
-TinyGoを利用したキーボードや基板、同人誌を展示します。  
+## TinyGo Keep  
   
 {{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-TinyGo_Keeb.jpg">}}  
   

@@ -1,11 +1,11 @@
 +++
 date = '2026-03-16T17:32:44+09:00'
-title = 'Oshwc2026AkihabaraFall-展示8'
+title = 'Oshwc2026AkihabaraFall-展示コーナー紹介(8)'
 +++
   
-# 武将猛牛  
+# 宇宙植物栽培のための発芽苗育成試験  
   
-宇宙植物栽培のための発芽苗育成試験  
+## 武将猛牛  
   
 {{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-武将猛牛.jpg">}}  
   
