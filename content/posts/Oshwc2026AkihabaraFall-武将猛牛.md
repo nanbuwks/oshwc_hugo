@@ -7,7 +7,7 @@ title = 'Oshwc2026AkihabaraSpring-展示コーナー紹介(8)'
   
 ## SpaceFarm Project
   
-{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-武将猛牛.jpg">}}  
+{{< figure src="/images/20260322_Oshwc2026AkihabaraSpring/exhibitors/26AkihabaraSpring-武将猛牛.jpg">}}  
   
 <!--more-->  
 

@@ -7,7 +7,7 @@ title = 'Oshwc2026AkihabaraSpring-出展コーナー紹介(5)'
     
 ## いのうえみのる（@henjin01_fab）
 
-{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-いのうえみのる（_henjin01_fab）.jpg">}}  
+{{< figure src="/images/20260322_Oshwc2026AkihabaraSpring/exhibitors/26AkihabaraSpring-いのうえみのる（_henjin01_fab）.jpg">}}  
 
 <!--more-->  
 

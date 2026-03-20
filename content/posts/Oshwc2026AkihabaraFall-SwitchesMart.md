@@ -7,7 +7,7 @@ title = 'Oshwc2026AkihabaraSpring-展示コーナー紹介(6)'
   
 ## SwitchesMart  
   
-{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-SwitchesMart.png">}}  
+{{< figure src="/images/20260322_Oshwc2026AkihabaraSpring/exhibitors/26AkihabaraSpring-SwitchesMart.png">}}  
 
 <!--more-->  
 

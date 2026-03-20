@@ -7,7 +7,7 @@ title = 'Oshwc2026AkihabaraSpring-出展コーナー紹介(3)'
   
 ## ビギナー電子工作  
   
-{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-ビギナー電子工作.JPG">}}  
+{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/26AkihabaraSpring-ビギナー電子工作.JPG">}}  
   
 <!--more-->  
   

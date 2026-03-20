@@ -7,7 +7,7 @@ title = 'Oshwc2026AkihabaraSpring-出展コーナー紹介(2)'
   
 ## UIAP  
   
-{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-UIAP.png">}}  
+{{< figure src="/images/20260322_Oshwc2026AkihabaraSpring/exhibitors/26AkihabaraSpring-UIAP.png">}}  
   
 <!--more-->
 

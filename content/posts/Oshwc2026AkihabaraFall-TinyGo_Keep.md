@@ -7,7 +7,7 @@ title = 'Oshwc2026AkihabaraSpring-出展コーナー紹介(4)'
   
 ## TinyGo Keep  
   
-{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-TinyGo_Keeb.jpg">}}  
+{{< figure src="/images/20260322_Oshwc2026AkihabaraSpring/exhibitors/26AkihabaraSpring-TinyGo_Keeb.jpg">}}  
 
 <!--more-->  
 

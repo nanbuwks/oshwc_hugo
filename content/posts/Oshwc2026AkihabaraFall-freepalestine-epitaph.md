@@ -7,7 +7,7 @@ title = 'Oshwc2026AkihabaraSpring-展示コーナー紹介(7)'
   
 ## freepalestine-epitaph  
 
-{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-freepalestine-epitaph.png" >}}
+{{< figure src="/images/20260322_Oshwc2026AkihabaraSpring/exhibitors/26AkihabaraSpring-freepalestine-epitaph.png" >}}
 
 
 <!--more-->
