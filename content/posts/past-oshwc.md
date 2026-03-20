@@ -14,3 +14,7 @@ https://oshwc.org/posts/oshwc2025akihabara/
   
 - オープンハードカンファレンス 2026 Akihabara - 26.03.22 (予定)  
 https://oshwc.org/posts/oshwc2026akihabaraspring/  
+  
+  
+  
+それより以前の開催ページは[こちら](https://oshwc.org/posts/oldsite/)  
