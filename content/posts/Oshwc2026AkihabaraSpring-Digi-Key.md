@@ -1,6 +1,6 @@
 +++
 date = '2026-03-18T21:06:49+09:00'
-title = 'Oshwc2026AkihabaraSpring-展示コーナー紹介(10)'
+title = 'Oshwc2026AkihabaraSpring-展示コーナー紹介(9)'
 +++
 
 # DigiKeyの各種サービス、NXPフリーダムボード
