@@ -7,8 +7,9 @@ title = 'Oshwc2026AkihabaraFall-展示コーナー紹介(7)'
   
 ## freepalestine-epitaph  
 
-{{< figure src="/imaegs/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-freepalestine-epitaph.png" >}}  
-  
+{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-freepalestine-epitaph.png" >}}
+
+
 <!--more-->
 
 DebianベーcスのLinuxディストリビューションです。  
