@@ -1,6 +1,6 @@
 +++
 date = '2026-03-18T19:49:11+09:00'
-title = 'Oshwc2026AkihabaraFall-展示コーナー紹介(9)'
+title = 'Oshwc2026AkihabaraSpring-展示コーナー紹介(9)'
 +++
 
 # シンセで音を作ろう  
