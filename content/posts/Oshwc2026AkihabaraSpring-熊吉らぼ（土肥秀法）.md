@@ -12,3 +12,4 @@ title = 'Oshwc2026AkihabaraSpring-展示コーナー紹介(9)'
 <!--more-->  
 
 モジュラーシンセの各モジュールをつないで口笛や機関車の走行音や汽笛などをつくってみよう！  
+Roland System100Mを使います。
