@@ -7,7 +7,7 @@ title = 'Oshwc2026AkihabaraFall-体験コーナー紹介(3)'
   
 ## 秘密結社オープンフォース  
   
-{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-秘密結社オープンフォース.jpg" >}}
+{{< figure src="/images/20260322_Oshwc2026AkihabaraSpring/exhibitors/26AkihabaraSpring-秘密結社オープンフォース.jpg" >}}
 
 <!--more-->
 

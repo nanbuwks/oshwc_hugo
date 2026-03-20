@@ -7,7 +7,7 @@ title = 'Oshwc2026AkihabaraFall-展示コーナー紹介(10)'
 
 ## Digi Key_Electronics_合同会社
 
-{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-DigiKey.png" >}}
+{{< figure src="/images/20260322_Oshwc2026AkihabaraSpring/exhibitors/26AkihabaraSpring-DigiKey.png" >}}
 
 <!--more-->  
 

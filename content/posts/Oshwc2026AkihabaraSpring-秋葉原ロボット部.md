@@ -7,7 +7,7 @@ title = 'Oshwc2026AkihabaraFall-体験2コーナー紹介(2)'
   
 ## 秋葉原ロボット部  
   
-{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-秋葉原ロボット部.png">}}  
+{{< figure src="/images/20260322_Oshwc2026AkihabaraSpring/exhibitors/26AkihabaraSpring-秋葉原ロボット部.png">}}  
 
 <!--more-->  
 
