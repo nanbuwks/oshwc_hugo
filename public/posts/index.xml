@@ -6,91 +6,126 @@
     <description>Recent content on OSHWC:OpenHardWareConference</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Mar 2026 17:53:37 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 10:09:27 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>オープンハードカンファレンス2026Akihabara/Spring レイアウト</title>
+      <link>http://localhost:1313/posts/oshwc2026akihabarafall_layout/</link>
+      <pubDate>Fri, 20 Mar 2026 10:09:27 +0900</pubDate>
+      <guid>http://localhost:1313/posts/oshwc2026akihabarafall_layout/</guid>
+      <description>&lt;p&gt;レイアウトが決定しました。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/Oshwc2026AkihabaraFall_Layout.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>机をロボ☆スタディオン様からお借りしました</title>
+      <link>http://localhost:1313/posts/oshwc2026akihabarafall_prepare/</link>
+      <pubDate>Wed, 18 Mar 2026 21:29:23 +0900</pubDate>
+      <guid>http://localhost:1313/posts/oshwc2026akihabarafall_prepare/</guid>
+      <description>&lt;p&gt;OSHWCに向けて準備を進めています。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/Oshwc2026AkihabaraFall_Prepare.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>Oshwc2026AkihabaraFall-展示コーナー紹介(11)</title>
+      <link>http://localhost:1313/posts/oshwc2026akihabarafall-jlcpcb/</link>
+      <pubDate>Wed, 18 Mar 2026 21:20:23 +0900</pubDate>
+      <guid>http://localhost:1313/posts/oshwc2026akihabarafall-jlcpcb/</guid>
+      <description>&lt;h1 id=&#34;jlcpcb&#34;&gt;JLCPCB&lt;/h1&gt;&#xA;&lt;h2 id=&#34;jlcpcb-japan&#34;&gt;JLCPCB JAPAN&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-JLCPCB.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>Oshwc2026AkihabaraFall-展示コーナー紹介(10)</title>
+      <link>http://localhost:1313/posts/oshwc2026akihabarafall-digi-key/</link>
+      <pubDate>Wed, 18 Mar 2026 21:06:49 +0900</pubDate>
+      <guid>http://localhost:1313/posts/oshwc2026akihabarafall-digi-key/</guid>
+      <description>&lt;h1 id=&#34;digikeyの各種サービスnxpフリーダムボード&#34;&gt;DigiKeyの各種サービス、NXPフリーダムボード&lt;/h1&gt;&#xA;&lt;h2 id=&#34;digi-key_electronics_合同会社&#34;&gt;Digi Key_Electronics_合同会社&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-DigiKey.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>Oshwc2026AkihabaraFall-展示コーナー紹介(9)</title>
+      <link>http://localhost:1313/posts/oshwc2026akihabarafall-%E7%86%8A%E5%90%89%E3%82%89%E3%81%BC%E5%9C%9F%E8%82%A5%E7%A7%80%E6%B3%95/</link>
+      <pubDate>Wed, 18 Mar 2026 19:49:11 +0900</pubDate>
+      <guid>http://localhost:1313/posts/oshwc2026akihabarafall-%E7%86%8A%E5%90%89%E3%82%89%E3%81%BC%E5%9C%9F%E8%82%A5%E7%A7%80%E6%B3%95/</guid>
+      <description>&lt;h1 id=&#34;シンセで音を作ろう&#34;&gt;シンセで音を作ろう&lt;/h1&gt;&#xA;&lt;h2 id=&#34;熊吉らぼ土肥秀法&#34;&gt;熊吉らぼ（土肥秀法）&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-%E7%86%8A%E5%90%89%E3%82%89%E3%81%BC.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
     <item>
       <title>Oshwc2026AkihabaraFall-体験コーナー紹介(4)</title>
       <link>http://localhost:1313/posts/oshwc2026akihabarafall-%E6%B2%B3%E9%87%8E%E7%94%B1%E4%BD%B3/</link>
       <pubDate>Mon, 16 Mar 2026 17:53:37 +0900</pubDate>
       <guid>http://localhost:1313/posts/oshwc2026akihabarafall-%E6%B2%B3%E9%87%8E%E7%94%B1%E4%BD%B3/</guid>
-      <description>&lt;h1 id=&#34;世界はすごいでできている&#34;&gt;世界はすごい！でできている&lt;/h1&gt;&#xA;&lt;h2 id=&#34;河野由佳&#34;&gt;河野由佳&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-%E6%B2%B3%E9%87%8E%E7%94%B1%E4%BD%B3.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;カラフルドリンクと、ドーナツと本の配布をします。&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;世界はすごいでできている&#34;&gt;世界はすごい！でできている&lt;/h1&gt;&#xA;&lt;h2 id=&#34;河野由佳&#34;&gt;河野由佳&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-%E6%B2%B3%E9%87%8E%E7%94%B1%E4%BD%B3.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Oshwc2026AkihabaraFall-体験コーナー紹介(3)</title>
       <link>http://localhost:1313/posts/oshwc2026akihabarafall-%E7%A7%98%E5%AF%86%E7%B5%90%E7%A4%BE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9/</link>
       <pubDate>Mon, 16 Mar 2026 17:52:22 +0900</pubDate>
       <guid>http://localhost:1313/posts/oshwc2026akihabarafall-%E7%A7%98%E5%AF%86%E7%B5%90%E7%A4%BE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9/</guid>
-      <description>&lt;h1 id=&#34;はんだづけコーナー&#34;&gt;はんだづけコーナー&lt;/h1&gt;&#xA;&lt;h2 id=&#34;秘密結社オープンフォース&#34;&gt;秘密結社オープンフォース&lt;/h2&gt;&#xA;&lt;p&gt;はんだづけ体験ブース&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;はんだづけコーナー&#34;&gt;はんだづけコーナー&lt;/h1&gt;&#xA;&lt;h2 id=&#34;秘密結社オープンフォース&#34;&gt;秘密結社オープンフォース&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-%E7%A7%98%E5%AF%86%E7%B5%90%E7%A4%BE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Oshwc2026AkihabaraFall-体験2コーナー紹介(2)</title>
       <link>http://localhost:1313/posts/oshwc2026akihabarafall-%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E9%83%A8/</link>
       <pubDate>Mon, 16 Mar 2026 17:50:11 +0900</pubDate>
       <guid>http://localhost:1313/posts/oshwc2026akihabarafall-%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E9%83%A8/</guid>
-      <description>&lt;h1 id=&#34;光干渉実験&#34;&gt;光干渉実験&lt;/h1&gt;&#xA;&lt;h2 id=&#34;秋葉原ロボット部&#34;&gt;秋葉原ロボット部&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E9%83%A8.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;ハーフミラーを使って干渉実験をします。&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;光干渉実験&#34;&gt;光干渉実験&lt;/h1&gt;&#xA;&lt;h2 id=&#34;秋葉原ロボット部&#34;&gt;秋葉原ロボット部&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-%E7%A7%8B%E8%91%89%E5%8E%9F%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E9%83%A8.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
-      <title>Oshwc2026AkihabaraFall-体験コーナー紹介(1)</title>
-      <link>http://localhost:1313/posts/oshwc2026akihabarafall-%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E9%9B%BB%E5%AD%90%E5%B7%A5%E6%88%BF_%E3%83%AD%E3%83%9C%E3%81%82%E3%83%BC%E3%81%A8/</link>
+      <title>Oshwc2026AkihabaraSpring-体験コーナー紹介(1)</title>
+      <link>http://localhost:1313/posts/oshwc2026akihabaraspring-%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E9%9B%BB%E5%AD%90%E5%B7%A5%E6%88%BF_%E3%83%AD%E3%83%9C%E3%81%82%E3%83%BC%E3%81%A8/</link>
       <pubDate>Mon, 16 Mar 2026 17:45:12 +0900</pubDate>
-      <guid>http://localhost:1313/posts/oshwc2026akihabarafall-%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E9%9B%BB%E5%AD%90%E5%B7%A5%E6%88%BF_%E3%83%AD%E3%83%9C%E3%81%82%E3%83%BC%E3%81%A8/</guid>
-      <description>&lt;h1 id=&#34;ミニチュアロボットのワークショップ&#34;&gt;ミニチュアロボットのワークショップ&lt;/h1&gt;&#xA;&lt;h2 id=&#34;ものづくり電子工房ロボあーと&#34;&gt;ものづくり電子工房　ロボあーと&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E9%9B%BB%E5%AD%90%E5%B7%A5%E6%88%BF_%E3%83%AD%E3%83%9C%E3%81%82%E3%83%BC%E3%81%A8.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;3Dプリンターでつくった　オリジナルロボットのパーツ等を使い、ミニジオラマを制作できます。&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/oshwc2026akihabaraspring-%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E9%9B%BB%E5%AD%90%E5%B7%A5%E6%88%BF_%E3%83%AD%E3%83%9C%E3%81%82%E3%83%BC%E3%81%A8/</guid>
+      <description>&lt;h1 id=&#34;ミニチュアロボットのワークショップ&#34;&gt;ミニチュアロボットのワークショップ&lt;/h1&gt;&#xA;&lt;h2 id=&#34;ものづくり電子工房ロボあーと&#34;&gt;ものづくり電子工房　ロボあーと&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraSpring/exhibitors/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E9%9B%BB%E5%AD%90%E5%B7%A5%E6%88%BF_%E3%83%AD%E3%83%9C%E3%81%82%E3%83%BC%E3%81%A8.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Oshwc2026AkihabaraFall-展示コーナー紹介(8)</title>
       <link>http://localhost:1313/posts/oshwc2026akihabarafall-%E6%AD%A6%E5%B0%86%E7%8C%9B%E7%89%9B/</link>
       <pubDate>Mon, 16 Mar 2026 17:32:44 +0900</pubDate>
       <guid>http://localhost:1313/posts/oshwc2026akihabarafall-%E6%AD%A6%E5%B0%86%E7%8C%9B%E7%89%9B/</guid>
-      <description>&lt;h1 id=&#34;宇宙植物栽培のための発芽苗育成試験&#34;&gt;宇宙植物栽培のための発芽苗育成試験&lt;/h1&gt;&#xA;&lt;h2 id=&#34;武将猛牛&#34;&gt;武将猛牛&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-%E6%AD%A6%E5%B0%86%E7%8C%9B%E7%89%9B.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;宇宙ステーションや宇宙船向け植物栽培モジュールを想定した、食用植物水耕栽培システムの発芽から苗まで育成した経過展示。&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;宇宙植物栽培のための発芽苗育成試験&#34;&gt;宇宙植物栽培のための発芽苗育成試験&lt;/h1&gt;&#xA;&lt;h2 id=&#34;spacefarm-project&#34;&gt;SpaceFarm Project&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-%E6%AD%A6%E5%B0%86%E7%8C%9B%E7%89%9B.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Oshwc2026AkihabaraFall-展示コーナー紹介(7)</title>
       <link>http://localhost:1313/posts/oshwc2026akihabarafall-freepalestine-epitaph/</link>
       <pubDate>Mon, 16 Mar 2026 17:31:03 +0900</pubDate>
       <guid>http://localhost:1313/posts/oshwc2026akihabarafall-freepalestine-epitaph/</guid>
-      <description>&lt;h1 id=&#34;olivelinux&#34;&gt;OliveLinux&lt;/h1&gt;&#xA;&lt;h2 id=&#34;freepalestine-epitaph&#34;&gt;freepalestine-epitaph&lt;/h2&gt;&#xA;&lt;p&gt;DebianベースのLinuxディストリビューションです。&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;olivelinux&#34;&gt;OliveLinux&lt;/h1&gt;&#xA;&lt;h2 id=&#34;freepalestine-epitaph&#34;&gt;freepalestine-epitaph&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-freepalestine-epitaph.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Oshwc2026AkihabaraFall-展示コーナー紹介(6)</title>
       <link>http://localhost:1313/posts/oshwc2026akihabarafall-switchesmart/</link>
       <pubDate>Mon, 16 Mar 2026 17:29:27 +0900</pubDate>
       <guid>http://localhost:1313/posts/oshwc2026akihabarafall-switchesmart/</guid>
-      <description>&lt;h1 id=&#34;自作キーボードおよび24ghz-usbドングル&#34;&gt;自作キーボードおよび2.4GHz USBドングル&lt;/h1&gt;&#xA;&lt;h2 id=&#34;switchesmart&#34;&gt;SwitchesMart&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-SwitchesMart.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;PCやタブレット、スマホに挿すだけで使える、シンプルさを追求した2.4GHz通信USBドングルです。展示会当日は試作品の展示と、実際に入力できるデモをご体験いただけます。&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;自作キーボードおよび24ghz-usbドングル&#34;&gt;自作キーボードおよび2.4GHz USBドングル&lt;/h1&gt;&#xA;&lt;h2 id=&#34;switchesmart&#34;&gt;SwitchesMart&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-SwitchesMart.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Oshwc2026AkihabaraFall-出展コーナー紹介(5)</title>
       <link>http://localhost:1313/posts/oshwc2026akihabarafall-%E3%81%84%E3%81%AE%E3%81%86%E3%81%88%E3%81%BF%E3%81%AE%E3%82%8B_henjin01_fab/</link>
       <pubDate>Mon, 16 Mar 2026 17:21:06 +0900</pubDate>
       <guid>http://localhost:1313/posts/oshwc2026akihabarafall-%E3%81%84%E3%81%AE%E3%81%86%E3%81%88%E3%81%BF%E3%81%AE%E3%82%8B_henjin01_fab/</guid>
-      <description>&lt;h1 id=&#34;meshyと自作webアプリで作るラジコンカーボディ&#34;&gt;Meshyと自作Webアプリで作るラジコンカーボディ&lt;/h1&gt;&#xA;&lt;h2 id=&#34;いのうえみのるhenjin01_fab&#34;&gt;いのうえみのる（@henjin01_fab）&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-%E3%81%84%E3%81%AE%E3%81%86%E3%81%88%E3%81%BF%E3%81%AE%E3%82%8B%EF%BC%88_henjin01_fab%EF%BC%89.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Meshyで3D生成した架空の自動車ボディを、俺得な自作３Dモデル編集アプリで諸々編集して造形できるようにしてみました！作成したボディを色々と展示してみます！&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;meshyと自作webアプリで作るラジコンカーボディ&#34;&gt;Meshyと自作Webアプリで作るラジコンカーボディ&lt;/h1&gt;&#xA;&lt;h2 id=&#34;いのうえみのるhenjin01_fab&#34;&gt;いのうえみのる（@henjin01_fab）&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-%E3%81%84%E3%81%AE%E3%81%86%E3%81%88%E3%81%BF%E3%81%AE%E3%82%8B%EF%BC%88_henjin01_fab%EF%BC%89.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Oshwc2026AkihabaraFall-出展コーナー紹介(4)</title>
       <link>http://localhost:1313/posts/oshwc2026akihabarafall-tinygo_keep/</link>
       <pubDate>Mon, 16 Mar 2026 17:18:01 +0900</pubDate>
       <guid>http://localhost:1313/posts/oshwc2026akihabarafall-tinygo_keep/</guid>
-      <description>&lt;h1 id=&#34;tinygoを利用したキーボードや基板同人誌を展示します&#34;&gt;TinyGoを利用したキーボードや基板、同人誌を展示します。&lt;/h1&gt;&#xA;&lt;h2 id=&#34;tinygo-keep&#34;&gt;TinyGo Keep&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-TinyGo_Keeb.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;TinyGo-Keebは、メカニカルキーボードの自作や改造を楽しむ仲間が集まるコミュニティです。 初心者から経験者まで、キーボード作りの楽しさを共有し、技術や知識を交換する場を提供しています。ワークショップで作成するキーボードや同人誌、基板を展示します。&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;tinygoを利用したキーボードや基板同人誌を展示します&#34;&gt;TinyGoを利用したキーボードや基板、同人誌を展示します。&lt;/h1&gt;&#xA;&lt;h2 id=&#34;tinygo-keep&#34;&gt;TinyGo Keep&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-TinyGo_Keeb.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Oshwc2026AkihabaraFall-出展コーナー紹介(3)</title>
       <link>http://localhost:1313/posts/oshwc2026akihabarafall-%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C/</link>
       <pubDate>Mon, 16 Mar 2026 17:13:38 +0900</pubDate>
       <guid>http://localhost:1313/posts/oshwc2026akihabarafall-%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C/</guid>
-      <description>&lt;h1 id=&#34;実用新案獲得非利き手でも使いこなせるキーボード&#34;&gt;実用新案獲得!!非利き手でも使いこなせるキーボード&lt;/h1&gt;&#xA;&lt;h2 id=&#34;ビギナー電子工作&#34;&gt;ビギナー電子工作&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C.JPG&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;医療従事者として、「今後の生活は非利き手しか使えなくなってしまった」状態の方を多くみてきました。そのような方々を少しでも支援出来ないかと思い、今回このような「非利き手専用完結型キーボード」を作成致しました。&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;実用新案獲得非利き手でも使いこなせるキーボード&#34;&gt;実用新案獲得!!非利き手でも使いこなせるキーボード&lt;/h1&gt;&#xA;&lt;h2 id=&#34;ビギナー電子工作&#34;&gt;ビギナー電子工作&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-%E3%83%93%E3%82%AE%E3%83%8A%E3%83%BC%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C.JPG&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Oshwc2026AkihabaraFall-出展コーナー紹介(2)</title>
       <link>http://localhost:1313/posts/oshwc2026akihabarafall-uiap/</link>
       <pubDate>Mon, 16 Mar 2026 17:07:45 +0900</pubDate>
       <guid>http://localhost:1313/posts/oshwc2026akihabarafall-uiap/</guid>
-      <description>&lt;h1 id=&#34;教育機関クリエイタ向けarduino互換ボード&#34;&gt;教育機関&amp;amp;クリエイタ向けArduino互換ボード&lt;/h1&gt;&#xA;&lt;h2 id=&#34;uiap&#34;&gt;UIAP&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-UIAP.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;USB接続のオープンソースCH32V003開発ボードです。Arduino IDEやch32funに対応します。USBホスト保護ヒューズを備えており、CH32V003のHIDデバイスを実証できます。&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;教育機関クリエイタ向けarduino互換ボード&#34;&gt;教育機関&amp;amp;クリエイタ向けArduino互換ボード&lt;/h1&gt;&#xA;&lt;h2 id=&#34;uiap&#34;&gt;UIAP&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-UIAP.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Oshwc2026AkihabaraFall-出展コーナー紹介(1)</title>
       <link>http://localhost:1313/posts/oshwc2026akihabarafall-%E9%9B%BB%E6%B3%A2%E6%96%87%E5%8C%96%E7%A5%AD/</link>
       <pubDate>Mon, 16 Mar 2026 16:59:44 +0900</pubDate>
       <guid>http://localhost:1313/posts/oshwc2026akihabarafall-%E9%9B%BB%E6%B3%A2%E6%96%87%E5%8C%96%E7%A5%AD/</guid>
-      <description>&lt;h1 id=&#34;524日開催電波文化祭6をご紹介します&#34;&gt;5/24（日）開催「電波文化祭6」をご紹介します。&lt;/h1&gt;&#xA;&lt;h2 id=&#34;電波文化祭&#34;&gt;電波文化祭&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-%E9%9B%BB%E6%B3%A2%E6%96%87%E5%8C%96%E7%A5%AD.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&amp;ldquo;電波の文化祭と名付けたイベントですが「電波文化祭」は無線だけではなく、電子工作や同人誌など、様々な文化の重ね合わせを目指します。無線の上位にある「誰もが発信者となれること」「自らが創り出した価値を、他者と共有すること」そのためのイベントこそ、電波文化祭なのです。&lt;br&gt;&#xA;一無線家の研究や成果を「他者へ発信できる」&lt;br&gt;&#xA;「誰もが発信者となれる」参加型無線イベント&lt;br&gt;&#xA;6回目となる「電波文化祭サイクル 6」5/24（日）埼玉県入間市にて開催します。&amp;rdquo;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;524日開催電波文化祭6をご紹介します&#34;&gt;5/24（日）開催「電波文化祭6」をご紹介します。&lt;/h1&gt;&#xA;&lt;h2 id=&#34;電波文化祭&#34;&gt;電波文化祭&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-%E9%9B%BB%E6%B3%A2%E6%96%87%E5%8C%96%E7%A5%AD.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Oshwc2026akihabarafall4exhivitors</title>
@@ -118,21 +153,21 @@
       <link>http://localhost:1313/posts/past-oshwc/</link>
       <pubDate>Mon, 16 Mar 2026 15:07:21 +0900</pubDate>
       <guid>http://localhost:1313/posts/past-oshwc/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;オープンハードカンファレンス 2025 Saitama - 25/05/25&lt;br&gt;&#xA;&lt;a href=&#34;https://oshwc.org/posts/oshwc2025saitama/&#34;&gt;https://oshwc.org/posts/oshwc2025saitama/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;オープンハードカンファレンス 2025 Akihabara - 25/09/21&lt;br&gt;&#xA;&lt;a href=&#34;https://oshwc.org/posts/oshwc2025akihabara/&#34;&gt;https://oshwc.org/posts/oshwc2025akihabara/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;オープンハードカンファレンス 2026 Akihabara - 26.03.22 (予定)&lt;br&gt;&#xA;&lt;a href=&#34;https://oshwc.org/posts/oshwc2026akihabaraspring/&#34;&gt;https://oshwc.org/posts/oshwc2026akihabaraspring/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;オープンハードカンファレンス 2025 Saitama - 25/05/25&lt;br&gt;&#xA;&lt;a href=&#34;https://oshwc.org/posts/oshwc2025saitama/&#34;&gt;https://oshwc.org/posts/oshwc2025saitama/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;オープンハードカンファレンス 2025 Akihabara - 25/09/21&lt;br&gt;&#xA;&lt;a href=&#34;https://oshwc.org/posts/oshwc2025akihabara/&#34;&gt;https://oshwc.org/posts/oshwc2025akihabara/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;オープンハードカンファレンス 2026 Akihabara - 26.03.22 (予定)&lt;br&gt;&#xA;&lt;a href=&#34;https://oshwc.org/posts/oshwc2026akihabaraspring/&#34;&gt;https://oshwc.org/posts/oshwc2026akihabaraspring/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;それより以前の開催ページは&lt;a href=&#34;https://oshwc.org/posts/oldsite/&#34;&gt;こちら&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ScienceWorkshop</title>
       <link>http://localhost:1313/posts/scienceworkshop/</link>
       <pubDate>Sun, 01 Feb 2026 18:43:05 +0900</pubDate>
       <guid>http://localhost:1313/posts/scienceworkshop/</guid>
-      <description>&lt;p&gt;オープンハードカンファレンスの体験コーナーでは、子どもから大人まで楽しめる科学実験教室を行っています。&#xA;ジュースを使った色の分離実験や、指で触れると模様が変化する不思議な装置、光と反射を利用したイルミネーション工作、電子部品を使った信号機モデルづくり、他にもアイロンビーズ体験など、身近な材料とオープンハードウェアを活用した体験型の実験が盛りだくさんです。&lt;/p&gt;&#xA;&lt;p&gt;参加者は実際に手を動かしながら、「なぜこうなるの？」をその場で考え、試し、理解していくことができます。&#xA;見て楽しい、触って面白い、作って学べる――そんな科学とものづくりの魅力を気軽に体験できるコーナーになっています。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/ScienceWorkshop/IMG_2509.JPG&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/ScienceWorkshop/PXL_20250921_070734568.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/ScienceWorkshop/IMG_20251207_150120.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/ScienceWorkshop/PXL_20250921_051902603.jpg&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/ScienceWorkshop/PXL_20250921_051857386.jpg&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <description>&lt;p&gt;オープンハードカンファレンスの体験コーナーでは、子どもから大人まで楽しめる科学実験教室を行っています。&lt;br&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/ScienceWorkshop/IMG_2509.JPG&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Entry</title>
       <link>http://localhost:1313/posts/oshwc2026akihabaraspringentry/</link>
       <pubDate>Wed, 12 Nov 2025 19:21:43 +0900</pubDate>
       <guid>http://localhost:1313/posts/oshwc2026akihabaraspringentry/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/oshwc2026akihabaraspring&#34;&gt;オープンハードカンファレンス2026 Akihabara/Spring&lt;/a&gt; の出展・登壇申込み&lt;/p&gt;&#xA;&lt;h2 id=&#34;参加条件&#34;&gt;参加条件&lt;/h2&gt;&#xA;&lt;p&gt;電子工作や、OSHW規約を守らないとダメということはありません。&#xA;モノ系に限らず、OSS系、サービス系、教育系など、熱いスピリットがあれば制限はありません！&lt;/p&gt;&#xA;&lt;h2 id=&#34;出展について&#34;&gt;出展について&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;11:00-16:00&lt;/li&gt;&#xA;&lt;li&gt;机サイズ 120cm(1卓・一部除く)&lt;/li&gt;&#xA;&lt;li&gt;来場参加費：無料&lt;/li&gt;&#xA;&lt;li&gt;出展費用：無料&lt;/li&gt;&#xA;&lt;li&gt;販売OK&lt;/li&gt;&#xA;&lt;li&gt;電源有&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;今までオープンハードカンファレンスにて申し込みいただいていたジャンルの一例&#34;&gt;今までオープンハードカンファレンスにて申し込みいただいていたジャンルの一例：&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;プログラミング体験&lt;/li&gt;&#xA;&lt;li&gt;同人誌販売&lt;/li&gt;&#xA;&lt;li&gt;オープンソースの気象教材かるたの展示&lt;/li&gt;&#xA;&lt;li&gt;ミシンで手芸HACK!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;オープンハードウェアのライセンスのシールを当日お配りします。展示するアイテムがどのライセンスにあたるかを表示するために、ブースやアイテムへの貼り付けにご協力ください。&lt;/p&gt;&#xA;&lt;h3 id=&#34;出展申込み&#34;&gt;出展申込み&lt;/h3&gt;&#xA;&lt;p&gt;こちらのページから&#xA;&lt;a href=&#34;https://forms.gle/sWTrhd6QwVu2wSgv9&#34;&gt;https://forms.gle/sWTrhd6QwVu2wSgv9&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;締め切り：&lt;del&gt;2026/03/14 23:59&lt;/del&gt; → まだ空きがあるので埋まるまで募集継続します!!&lt;/p&gt;&#xA;&lt;h2 id=&#34;登壇について&#34;&gt;登壇について&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;30分セミナー枠 x 4&lt;/li&gt;&#xA;&lt;li&gt;来場参加費：無料&lt;/li&gt;&#xA;&lt;li&gt;登壇費用：無料 (個人、コミュニティ、企業問わず)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;過去のオープンハードカンファレンスで登壇いただいたジャンルの一例&#34;&gt;過去のオープンハードカンファレンスで登壇いただいたジャンルの一例：&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;レーザカッターで海苔を切ろう！&lt;/li&gt;&#xA;&lt;li&gt;OSS サービス/言語（Not ハードウェア）&lt;/li&gt;&#xA;&lt;li&gt;オープンハードウェアライセンス解説&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;登壇申し込み&#34;&gt;登壇申し込み&lt;/h3&gt;&#xA;&lt;p&gt;こちらのページから&#xA;&lt;a href=&#34;https://forms.gle/2oPWQYqrrqtj4CM99&#34;&gt;https://forms.gle/2oPWQYqrrqtj4CM99&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/oshwc2026akihabaraspring&#34;&gt;オープンハードカンファレンス2026 Akihabara/Spring&lt;/a&gt; の出展・登壇申込み&lt;/p&gt;&#xA;&lt;h2 id=&#34;参加条件&#34;&gt;参加条件&lt;/h2&gt;&#xA;&lt;p&gt;電子工作や、OSHW規約を守らないとダメということはありません。&#xA;モノ系に限らず、OSS系、サービス系、教育系など、熱いスピリットがあれば制限はありません！&lt;/p&gt;&#xA;&lt;h2 id=&#34;出展について&#34;&gt;出展について&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;11:00-16:00&lt;/li&gt;&#xA;&lt;li&gt;机サイズ 120cm(1卓・一部除く)&lt;/li&gt;&#xA;&lt;li&gt;来場参加費：無料&lt;/li&gt;&#xA;&lt;li&gt;出展費用：無料&lt;/li&gt;&#xA;&lt;li&gt;販売OK&lt;/li&gt;&#xA;&lt;li&gt;電源有&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;今までオープンハードカンファレンスにて申し込みいただいていたジャンルの一例&#34;&gt;今までオープンハードカンファレンスにて申し込みいただいていたジャンルの一例：&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;プログラミング体験&lt;/li&gt;&#xA;&lt;li&gt;同人誌販売&lt;/li&gt;&#xA;&lt;li&gt;オープンソースの気象教材かるたの展示&lt;/li&gt;&#xA;&lt;li&gt;ミシンで手芸HACK!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;オープンハードウェアのライセンスのシールを当日お配りします。展示するアイテムがどのライセンスにあたるかを表示するために、ブースやアイテムへの貼り付けにご協力ください。&lt;/p&gt;&#xA;&lt;h3 id=&#34;出展申込み&#34;&gt;出展申込み&lt;/h3&gt;&#xA;&lt;p&gt;こちらのページから&#xA;&lt;a href=&#34;https://forms.gle/sWTrhd6QwVu2wSgv9&#34;&gt;https://forms.gle/sWTrhd6QwVu2wSgv9&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;締め切り：&lt;del&gt;2026/03/14 23:59&lt;/del&gt; → &lt;del&gt;まだ空きがあるので埋まるまで募集継続します!!&lt;/del&gt;  → 締め切りました!!&lt;/p&gt;&#xA;&lt;h2 id=&#34;登壇について&#34;&gt;登壇について&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;30分セミナー枠 x 4&lt;/li&gt;&#xA;&lt;li&gt;来場参加費：無料&lt;/li&gt;&#xA;&lt;li&gt;登壇費用：無料 (個人、コミュニティ、企業問わず)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;過去のオープンハードカンファレンスで登壇いただいたジャンルの一例&#34;&gt;過去のオープンハードカンファレンスで登壇いただいたジャンルの一例：&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;レーザカッターで海苔を切ろう！&lt;/li&gt;&#xA;&lt;li&gt;OSS サービス/言語（Not ハードウェア）&lt;/li&gt;&#xA;&lt;li&gt;オープンハードウェアライセンス解説&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;登壇申し込み&#34;&gt;登壇申し込み&lt;/h3&gt;&#xA;&lt;p&gt;こちらのページから&#xA;&lt;a href=&#34;https://forms.gle/2oPWQYqrrqtj4CM99&#34;&gt;https://forms.gle/2oPWQYqrrqtj4CM99&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Oshwc2026akihabaraspring4exhivitors</title>
