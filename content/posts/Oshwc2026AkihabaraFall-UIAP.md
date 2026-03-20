@@ -1,6 +1,6 @@
 +++
 date = '2026-03-16T17:07:45+09:00'
-title = 'Oshwc2026AkihabaraFall-出展コーナー紹介(2)'
+title = 'Oshwc2026AkihabaraSpring-出展コーナー紹介(2)'
 +++
   
 # 教育機関&クリエイタ向けArduino互換ボード  

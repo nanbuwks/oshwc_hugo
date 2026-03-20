@@ -1,6 +1,6 @@
 +++
 date = '2026-03-16T17:29:27+09:00'
-title = 'Oshwc2026AkihabaraFall-展示コーナー紹介(6)'
+title = 'Oshwc2026AkihabaraSpring-展示コーナー紹介(6)'
 +++
   
 # 自作キーボードおよび2.4GHz USBドングル  

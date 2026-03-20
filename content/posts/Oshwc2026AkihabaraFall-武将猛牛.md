@@ -1,6 +1,6 @@
 +++
 date = '2026-03-16T17:32:44+09:00'
-title = 'Oshwc2026AkihabaraFall-展示コーナー紹介(8)'
+title = 'Oshwc2026AkihabaraSpring-展示コーナー紹介(8)'
 +++
   
 # 宇宙植物栽培のための発芽苗育成試験  

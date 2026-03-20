@@ -1,6 +1,6 @@
 +++
 date = '2026-03-16T16:59:44+09:00'
-title = 'Oshwc2026AkihabaraFall-出展コーナー紹介(1)'
+title = 'Oshwc2026AkihabaraSpring-出展コーナー紹介(1)'
 +++
   
 # 5/24（日）開催「電波文化祭6」をご紹介します。  
