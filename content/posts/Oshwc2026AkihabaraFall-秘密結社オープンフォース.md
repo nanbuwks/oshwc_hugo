@@ -7,7 +7,9 @@ title = 'Oshwc2026AkihabaraFall-体験コーナー紹介(3)'
   
 ## 秘密結社オープンフォース  
   
-{{< figure src="images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-秘密結社オープンフォース.jpg" >}}
+{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-秘密結社オープンフォース.jpg" >}}
+
+<!--more-->
 
 はじめてのひとも大丈夫！  
 キットを販売して作ります。  
