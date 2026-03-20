@@ -8,5 +8,7 @@ title = 'Oshwc2026AkihabaraFall-体験コーナー紹介(1)'
 ## ものづくり電子工房　ロボあーと  
   
 {{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-ものづくり電子工房_ロボあーと.jpg">}}  
-  
+
+<!--more-->  
+
 3Dプリンターでつくった　オリジナルロボットのパーツ等を使い、ミニジオラマを制作できます。  

@@ -8,5 +8,7 @@ title = 'Oshwc2026AkihabaraFall-体験2コーナー紹介(2)'
 ## 秋葉原ロボット部  
   
 {{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-秋葉原ロボット部.png">}}  
-  
+
+<!--more-->  
+
 ハーフミラーを使って干渉実験をします。  

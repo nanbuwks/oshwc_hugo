@@ -7,4 +7,8 @@ title = 'Oshwc2026AkihabaraFall-体験コーナー紹介(3)'
   
 ## 秘密結社オープンフォース  
   
-はんだづけ体験ブース  
+{{< figure src="images/20260920_Oshwc2026AkihabaraFall/exhibitors/Oshwc2026AkihabaraFall-秘密結社オープンフォース.jpg" >}}
+
+はじめてのひとも大丈夫！  
+キットを販売して作ります。  
+修理したいものや、作ってみたいキットの持ち込みもOK！
