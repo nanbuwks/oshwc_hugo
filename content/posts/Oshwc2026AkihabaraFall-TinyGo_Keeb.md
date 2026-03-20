@@ -5,7 +5,7 @@ title = 'Oshwc2026AkihabaraSpring-出展コーナー紹介(4)'
   
 # TinyGoを利用したキーボードや基板、同人誌を展示します。  
   
-## TinyGo Keep  
+## TinyGo Keeb  
   
 {{< figure src="/images/20260322_Oshwc2026AkihabaraSpring/exhibitors/26AkihabaraSpring-TinyGo_Keeb.jpg">}}  
 
