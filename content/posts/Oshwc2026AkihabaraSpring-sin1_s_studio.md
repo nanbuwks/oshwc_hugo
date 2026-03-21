@@ -1,6 +1,6 @@
 +++
 date = '2026-03-20T14:52:36+09:00'
-title = 'Oshwc2026AkihabaraSpring-展示コーナ紹介(10)'
+title = 'Oshwc2026AkihabaraSpring-展示コーナ紹介(11)'
 +++
 
 # ミニかわロボとコントローラ
