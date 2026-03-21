@@ -12,4 +12,4 @@ title = 'Oshwc2026AkihabaraSpring-展示コーナー紹介(7)'
 
 <!--more-->
 
-DebianベーcスのLinuxディストリビューションです。  
+DebianベースのLinuxディストリビューションです。  
