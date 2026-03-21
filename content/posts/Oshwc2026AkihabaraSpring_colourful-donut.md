@@ -5,7 +5,7 @@ title = 'レインボードーナッツ￥100'
   
 今回も「ちきゅう教室」様でのフードハックがあります。    
   
-{{< figure src="/images/20260322_Oshwc2026AkihabaraSpring/26AkihabaraSpring_rainbow_donut.png" >}}  
+{{< figure src="/images/20260322_Oshwc2026AkihabaraSpring/26AkihabaraSpring_rainbow-donut.png" >}}  
   
 <!--more-->  
 
