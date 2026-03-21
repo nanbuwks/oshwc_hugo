@@ -7,7 +7,7 @@ title = 'キッズ対応'
   
 今回もマット敷のキッズスペースを用意しました。  
   
-{{< figure src="/images/260322_Oshwc2026AkihabaraSpring/26AkkihabaraSpring.jpg" >}}  
+{{< figure src="/images/20260322_Oshwc2026AkihabaraSpring/26AkihabaraSpring_for-Kids.jpg" >}}  
   
 <!--more-->  
 
