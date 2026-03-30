@@ -6,7 +6,8 @@ title = '無事開催しました！'
 オープンハードカンファレンス2026 Akihabara/Spring を、  
 今回は JLCPCB オフィスをお借りして開催しました。  
   
-当日は展示・セミナー・体験コーナーと盛りだくさんの内容で、終始にぎやかなイベントとなりました。ご来場いただいた皆さま、本当にありがとうございました！  
+当日は展示・セミナー・体験コーナーと盛りだくさんの内容で、終始にぎやかなイベントとなりました。  
+ご来場いただいた皆さま、本当にありがとうございました！  
 
 {{< figure src="/images/20260322_Oshwc2026AkihabaraSpring/26AkihabaraSpring_held1.jpg" >}}  
   
@@ -25,6 +26,6 @@ title = '無事開催しました！'
 {{< figure src="/images/20260322_Oshwc2026AkihabaraSpring/26AkihabaraSpring_held2.jpg" >}}  
  
 
-イベント終了後には懇親会も開催しました。 
+イベント終了後には懇親会も開催しました。  
 展示やセミナーでは話しきれなかった内容をゆっくり話したり、新しいつながりができたりと、とても良い交流の場になりました。  
 {{< figure src="/images/20260322_Oshwc2026AkihabaraSpring/26AkihabaraSpring_held4.jpg" >}}
