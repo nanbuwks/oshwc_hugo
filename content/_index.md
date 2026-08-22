@@ -10,3 +10,4 @@ featured_image: '/images/IMG_20180909_125455.jpg'
 
 発表、展示、自慢をしてみよう!
 
+### [2026/9 秋葉原で開催!](https://oshwc.org/posts/oshwc2026akihabarafall)
