@@ -2,8 +2,11 @@
 date = '2026-03-16T15:48:49+09:00'
 title = 'Oshwc2026akihabarafall4exhivitors'
 +++
+### エントリーはこちらから！
+https://oshwc.org/posts/oshwc2026akihabarafallentry
 
 ## for exhivitors 登壇者、出展者、体験コーナー運営の皆様へ
+
 
 ## 会場について
 
@@ -19,6 +22,8 @@ JLCPCB オフィスで行います。 住所 東京都千代田区岩本町三�
 アクセス →   https://oshwc.org/posts/go2jlcpcboffice
 
 ### レイアウト
+
+{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/Oshwc2026AkihabaraFall_Poster.png">}}  
 
 
 <!--more-->
