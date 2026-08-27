@@ -5,4 +5,4 @@ title = '募集について'
 +++
 
 次回募集しています ↓  
-https://oshwc.org/posts/oshwc2026akihabarafall4exhivitors/
+https://oshwc.org/posts/oshwc2026akihabarafallentry/
