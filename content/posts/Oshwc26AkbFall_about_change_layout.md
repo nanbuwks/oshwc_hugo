@@ -4,6 +4,8 @@ draft = false
 title = 'レイアウト変更について'
 +++
 
-次回は120cm サイズの机で出展ブースを増やします!
+次回は120cm サイズの机で出展ブースを増やします!  
 
-(画像は後ほど)
+{{< figure src="images/20260920_Oshwc2026AkihabaraFall/26AkbFall_layout.png" >}}  s
+
+今回は音と光のコーナー、電波のコーナーを新たに追加しました。お楽しみに!  
