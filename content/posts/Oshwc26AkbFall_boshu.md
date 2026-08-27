@@ -6,3 +6,7 @@ title = '募集について'
 
 次回募集しています ↓  
 https://oshwc.org/posts/oshwc2026akihabarafallentry/
+
+
+過去の開催と比べ、展示枠が増えています！
+登壇も募集中！！
