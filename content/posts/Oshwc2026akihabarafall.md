@@ -38,6 +38,10 @@ JLCPCB 秋葉原オフィス 東京都千代田区岩本町三丁目2番1号ビ�
 - 来場参加費：無料
 - 出展費用：無料
 
+
+### レイアウト
+{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/26AkbFall_layout2.png" >}}
+
 ### 内容
 
 - 出展者によるブース展示
