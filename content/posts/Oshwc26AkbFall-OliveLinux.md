@@ -1,6 +1,5 @@
 +++
 date = '2026-09-15T14:27:56+09:00'
-draft = true
 title = 'Oshwc2026AkihabaraFall-出展コーナー紹介(2)'
 +++
 # OliveLinux
