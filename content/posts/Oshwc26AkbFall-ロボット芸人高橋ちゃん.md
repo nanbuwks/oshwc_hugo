@@ -7,7 +7,7 @@ title = 'Oshwc26AkbFall ロボット芸人高橋ちゃん'
 
 ## ロボット芸人高橋ちゃん
 
-{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/26AkihabaraFall-ロボット芸人高橋ちゃん.jpg >}}
+{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/exhibitors/26AkihabaraFall-ロボット芸人高橋ちゃん.jpg" >}}
 
 <!--more-->
 
