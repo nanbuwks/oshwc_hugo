@@ -1,6 +1,5 @@
 +++
 date = '2026-09-16T06:35:34+09:00'
-draft = true
 title = 'Oshwc2026AkihabaraFall-出展コーナー紹介(7)'
 +++
 
