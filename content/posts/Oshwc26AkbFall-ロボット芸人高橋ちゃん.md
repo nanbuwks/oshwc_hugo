@@ -1,6 +1,6 @@
 +++
 date = '2026-09-16T06:23:40+09:00'
-title = 'Oshwc26AkbFall ロボット芸人高橋ちゃん'
+title = 'Oshwc2026AkihabaraFall-出展コーナー紹介(5)'
 +++
 
 # ロボット芸人の相方ロボット
