@@ -10,10 +10,10 @@ title = 'セルフケーキ作りでおじ様パティシエ続出！'
 ちゃんと工程見てくださいね…  
 とヒヤヒヤしましたが、完成したケーキはどれも素晴らしいものでした！  
 
-{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/selfcake/selfcake1" alt="Description" >}}  
+{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/selfcake/selfcake1.jpg" >}}  
 
-{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/selfcake/selfcake2" alt="Description" >}}  
+{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/selfcake/selfcake2.jpg" >}}  
 
-{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/selfcake/selfcake3" alt="Description" >}}  
+{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/selfcake/selfcake3.jpg" >}}  
 
-{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/selfcake/selfcake4" alt="Description" >}}  
+{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/selfcake/selfcake4.jpg" >}}  
