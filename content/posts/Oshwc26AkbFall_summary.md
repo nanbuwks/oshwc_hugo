@@ -15,3 +15,5 @@ title = '開催集計'
   - 懇親会 約25名  
 
 次回は3月21日、今度は文京区で開催予定です。これからもよろしくお願いします。  
+
+{{< figure src="/images/20260920_Oshwc2026AkihabaraFall/26AkbFall_summary.png" >}}
