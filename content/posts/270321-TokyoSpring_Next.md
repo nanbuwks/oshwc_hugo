@@ -1,7 +1,6 @@
 +++
-date = '2026-10-25T20:02:17+09:00'
-title = 'Oshwc 2027 Tokyo / Spring'
-draft = true
+date = '2026-10-25T20:51:34+09:00'
+title = '次回開催！'
 +++
 
 
